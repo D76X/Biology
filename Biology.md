@@ -26,3 +26,21 @@ This fact leads to being able to find an answer to each of the questions 1 and 2
 [How Does Immunotherapy Help Us Treat Cancer? – with Samra Turajlić The Francis Crick Institute](https://www.youtube.com/watch?v=r0ciNRD_AcE&t=16s)  
 
 ---
+
+# Institute of Human Anatomy
+
+[What Ibuprofen Does to the Body Institute of Human Anatomy](https://www.youtube.com/watch?v=Zeem6k2bDFk)  
+
+[There's Only ONE Way Your Body Burns Fat Institute of Human Anatomy](https://www.youtube.com/watch?v=UTEbFKZW1Gc&t=907s)   
+[How to Burn Fat and Build Muscle at the Same Time Institute of Human Anatomy](https://www.youtube.com/watch?v=fD-qF0cHAP4)  
+[The Anatomy of Death: What Happens After Your Heart Stops Institute of Human Anatomy](https://www.youtube.com/watch?v=hYg2RKTwN-4)    
+
+---
+
+# Stated Clearly
+
+[Stated Clearly Playlists](https://www.youtube.com/@StatedClearly/playlists)  
+
+[How did bacterial flagella evolve? 01: Here's what we know Stated Clearly](https://www.youtube.com/watch?v=eFC9VzexRUk)   
+
+---
