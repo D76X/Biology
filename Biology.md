@@ -44,3 +44,18 @@ This fact leads to being able to find an answer to each of the questions 1 and 2
 [How did bacterial flagella evolve? 01: Here's what we know Stated Clearly](https://www.youtube.com/watch?v=eFC9VzexRUk)   
 
 ---
+
+# Interesting Topics
+
+# FeMo Cofactor
+
+> References:
+
+[The Quantum Computer Dream is Falling Apart Sabine Hossenfelder](https://www.youtube.com/watch?v=N-9muK0mv5w) 
+She mentions the FeMo Cofactor in the context of Quantum Computing and the present inability of this technology 
+to perform significantly better thna traditional computing in the field of computational molecular biology.
+
+
+# RuBisCo 
+
+---
