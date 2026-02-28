@@ -59,3 +59,15 @@ to perform significantly better thna traditional computing in the field of compu
 # RuBisCo 
 
 ---
+
+# Science and God   
+
+[Atheist MIT Prof Converts to Christianity After Discovering THIS Daily Dose Of Wisdom](https://www.youtube.com/watch?v=kEMl9phV-3Y)  
+
+[The Incredible Design of Honeybees: Proof of a Brilliant Creator Discovery Science](https://www.youtube.com/watch?v=WoLP9ZON9Ck&t=7s)  
+
+[Did Science Accidentally Point to God? Arvin Ash](https://www.youtube.com/watch?v=kEMl9phV-3Y)   
+
+[John Lennox Explains Evidence For The Resurrection More Clearly Than Anyone And It’s Mind Blowing Zebulon](https://www.youtube.com/watch?v=NggQTREuG8s)  
+
+---
