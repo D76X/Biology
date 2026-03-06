@@ -21,7 +21,8 @@
 
 ## Wolfgang Dibiasi
 
-[Das passiert in dir, wenn dieser Pilz falsch zubereitet wird Wolfgang Dibiasi](https://www.youtube.com/watch?v=F2aSLLuXtno)    
+[Das macht Oregano-Öl mit deinem Darm und Nervensystem! Wolfgang Dibiasi](https://youtu.be/AzyIUXXIEh0?si=mS14pTSlzUk2qBwb)   
+[Das passiert in dir, wenn dieser Pilz falsch zubereitet wird Wolfgang Dibiasi](https://www.youtube.com/watch?v=F2aSLLuXtno)     
 
 ### Zecken
 
