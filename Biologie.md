@@ -34,6 +34,68 @@ das [Knochenmark](https://www.collinsdictionary.com/dictionary/german-english/kn
 
 ---
 
+# Weiblische Biologie
+
+[Menstruationszyklus - Ovulation - Hormonelle Regulation (GnRH, FSH, LH, Östradiol, Progesteron) Medi Know](https://www.youtube.com/watch?v=DOpoNkcrmfA)  
+
+[degenerieren](https://www.collinsdictionary.com/dictionary/german-english/degenerieren)
+die [Degeneration](https://www.collinsdictionary.com/dictionary/german-english/degeneration)  
+> von vorne beginnen
+
+**Bie der Degeneration** des Corpusluteum entsteht das [Corpusalvikans] und 
+die **ovariellen Zyklus** can von vorne beginnen.
+
+[anschließen](https://www.collinsdictionary.com/dictionary/german-english/anschliessen) 
+Die [Lutealphase]
+das [Corpusluteum]
+
+Dach shließt, ab dem 15. Tag, die sogennante Lutealphase an, die durch das sogenannten Corpusluteum geprägt ist.
+
+[heranreifen](https://www.collinsdictionary.com/dictionary/german-english/heranreifen)  
+der [Eisprung](https://www.collinsdictionary.com/dictionary/german-english/eisprung)
+die [Ovulation] = der Eisprung
+
+Durch die erste Phase des Zyklus, die man Follikelphase nennt, reifen die Follikeln heran,
+bis es am 14. zum Eisprung, der auch Ovulation gennant wird, kommt.
+
+die durchschnittliche [Dauer](https://www.collinsdictionary.com/dictionary/german-english/dauer) eines Zyklus ist 28 Tage.
+Ein **durchschnittlicher** Menstruationszyklus **dauert** 28 Tage.
+
+der [Follikel](https://www.collinsdictionary.com/dictionary/german-english/follikel)
+
+die [Phase](https://www.collinsdictionary.com/dictionary/german-english/phase)  
+die [Hälfte](https://www.collinsdictionary.com/dictionary/german-english/halfte)  
+die este Phase des Zyklus = die erste Zyklushälfte
+
+Die [Follikelphase] ist die erste Zyklushälfte.
+Die erste Zyklushälfte **in den Ovarien** wird Follikelpahse genannt.
+
+[ablaufen](https://www.collinsdictionary.com/dictionary/german-english/ablaufen)  
+
+Der Mestruationszyklus umfasst zwei **parallel ablaufenden** Zyklen.
+> zum einen und zum zweiten...
+> eine zyklische Veränderung
+Zum einen der ovariellen Zyklus, der in den Ovarien bzw. in der Eistöcken stattfindet,
+und zum zweite, die zyklische Veränderung der Gebärmutterschleimhaut.
+
+die [Gebärmutter](https://www.collinsdictionary.com/dictionary/german-english/gebarmutter)  
+das [Uterus] = die Gebärmutter  
+
+die [Schleimhaut](https://www.collinsdictionary.com/dictionary/german-english/schleimhaut)  
+die Gebärmutterschleimhaut = das [Endometrium]  
+
+[menstruieren](https://www.collinsdictionary.com/dictionary/german-english/menstruieren)  
+der Menstruationszyklus
+die [Menstruation](https://www.collinsdictionary.com/dictionary/german-english/menstruation)    
+
+der [Zyklus](https://www.collinsdictionary.com/dictionary/german-english/zyklus)  > di Zyklen
+der ovarieller Zyklus
+
+der [Eierstock](https://www.collinsdictionary.com/dictionary/german-english/eierstock), die Eierstöcken 
+die [Ovarie](Tech.) für der EIerstock
+
+---
+
 ## Wortschatz für Biologie
 
 [Evolution widerlegt?\! Biologe zerstört Religiösen Fanatiker\! \- Wolfgang Dibiasi](https://www.youtube.com/watch?v=aApLvs6f69Q) 

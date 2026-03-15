@@ -60,3 +60,8 @@ to perform significantly better thna traditional computing in the field of compu
 
 ---
 
+# Human female Biology
+
+[Gonadotropins | Follicle Stimulating Hormone (FSH) and Luteinizing Hormone (LH) Dr Matt & Dr Mike](https://www.youtube.com/watch?v=YE-a7XiEYB4)  
+
+---
