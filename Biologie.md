@@ -38,11 +38,67 @@ das [Knochenmark](https://www.collinsdictionary.com/dictionary/german-english/kn
 
 [Menstruationszyklus - Ovulation - Hormonelle Regulation (GnRH, FSH, LH, Östradiol, Progesteron) Medi Know](https://www.youtube.com/watch?v=DOpoNkcrmfA)  
 
+[koordinieren](https://www.collinsdictionary.com/dictionary/german-english/koordinieren)
+das Gehirn
+das Zentrum [für..]
+[regulieren](https://www.collinsdictionary.com/dictionary/german-english/regulieren) = einstellen
+die Regulation
+der `Hypothalamus` ist das übergeordnetes **Regulationszentrum** für verschiedenen Hormone.
+das [Hormon](https://www.collinsdictionary.com/dictionary/german-english/hormon), die Hormone 
+
+Der Menstruationszyklus wird vom Gehirn koordiniert durch Hormone, die vom Hypothalamus reguliert werden.
+
+> sofern = wenn = im Fall
+> von vorne beginnen
+Sofern gibt es keine Einnistung, wird die Schleimhaut erneut abgestoßen und ein neues Menstrutionszyklus **beginnt von vorne**. 
+
+> hierbei = währenddessen = bei dieser Gelegenheit = in diesem Zusammenhang
+> in der zweite Hälfte des Menstruationzyklus = die zweite Zyklushälte
+[umbauen](https://www.collinsdictionary.com/dictionary/german-english/umbauen)  
+die Lutealphase 
+die Sekretionphase
+[einnisten](https://www.collinsdictionary.com/dictionary/german-english/einnisten)
+die Eizelle : das Ei > GEN: Eis 
+Die **Einnistung** eines **befruchteten** Eis in der Gebärmutter.
+
+In der zweite Zyklushälte kommen parallel die `Lutealphase` und die `Sekretionphase`.
+**Hierbei** baut sich die Gebärmutterschleim um, um sich vorzubereiten auf die mögliche
+**Einnistung** eines befruchteten Eis. 
+
+> als Antwort auf .. [+ Nominativ]
+der Eierstock, die Eierstöcken
+
+Als Antwort auf **die** Veränderung in den Ovarien, d.h. **die Eierstöcken**, 
+verändert sich auch das Endometrium.
+
+die [Schicht](https://www.collinsdictionary.com/dictionary/german-english/schicht), die Schichte  
+[1] eine dünnne Schicht Öls schwebt auf Wasser. = eine dünne **Lage**  Öls schwebt auf Wasser.
+
+> einmal .. und ..
+das Endometrium 
+die Basalis = die Regenerationschicht
+die Funktionalis
+**hormonabhängig** sein/werden
+[abstoßen](https://www.collinsdictionary.com/dictionary/german-english/abstossen) = [wegstoßen] > [abschaffen][2]
+[abschielfern](https://www.collinsdictionary.com/dictionary/german-english/abschilfern) > die Abschielferung
+die **Proliferationsphase**
+
+**Die Abschielferung** des Endometriums, wird **Desqumation** oder Menstruation gennant 
+und sie geschiet **definitiongemäß** am ersten Tag des Mentruationszyklus.
+Danach folgt das erneute Wachstum der Gebärmutterschleimhaut, sie wird auch **Proliferationsphase** genannt.
+
+Man kann das Endometrium in **zwei Schichte** **unterteilen**.
+**Einmal** **die Basalis, d.h. die Regenerationschicht**, und die **die Funktionalis**.
+Diese ist **hormonabhängig** und wird **im Rahmen der Menstruation** **abgestoßen**. 
+
 [degenerieren](https://www.collinsdictionary.com/dictionary/german-english/degenerieren)
 die [Degeneration](https://www.collinsdictionary.com/dictionary/german-english/degeneration)  
 > von vorne beginnen
 
-**Bie der Degeneration** des Corpusluteum entsteht das [Corpusalvikans] und 
+das Corpusluteum
+das Corpusalvikans
+
+**Bei der Degeneration** des Corpusluteum entsteht das [Corpusalvikans] und 
 die **ovariellen Zyklus** can von vorne beginnen.
 
 [anschließen](https://www.collinsdictionary.com/dictionary/german-english/anschliessen) 
@@ -86,7 +142,9 @@ die Gebärmutterschleimhaut = das [Endometrium]
 
 [menstruieren](https://www.collinsdictionary.com/dictionary/german-english/menstruieren)  
 der Menstruationszyklus
-die [Menstruation](https://www.collinsdictionary.com/dictionary/german-english/menstruation)    
+die [Menstruation](https://www.collinsdictionary.com/dictionary/german-english/menstruation)   
+die Menstruation wird auch **Desquamation** genannt und stellt **definitiongemäß** 
+den ersten Tag des **Mensatruationszyklus** dar.
 
 der [Zyklus](https://www.collinsdictionary.com/dictionary/german-english/zyklus)  > di Zyklen
 der ovarieller Zyklus
