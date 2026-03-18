@@ -34,10 +34,38 @@ das [Knochenmark](https://www.collinsdictionary.com/dictionary/german-english/kn
 
 ---
 
-# Weiblische Biologie
+# Weiblische Biologie und Physiologie
 
 [Menstruationszyklus - Ovulation - Hormonelle Regulation (GnRH, FSH, LH, Östradiol, Progesteron) Medi Know](https://www.youtube.com/watch?v=DOpoNkcrmfA)  
 
+---
+
+## Die erste Phase: die Follikelphase (Tag 1-14)
+
+
+
+[beteiligen](https://www.collinsdictionary.com/dictionary/german-english/beteiligen)  
+> sich an etwas beteiligen: sich an den Unkosten beteiligen
+die Beteiligung an .. = die Teilnahme an ... 
+Der Hypothalamus ist **daran beteiligt**, die Geschlechtshormone zu steuern.
+
+der Hypothalamus, die Drüse
+das Hormon, die Hormone > die Geschlechtshormone
+die [Pubertät](https://www.collinsdictionary.com/dictionary/german-english/pubertat)  
+das [Pubertätsalter](https://www.collinsdictionary.com/dictionary/german-english/pubertatsalter) = die Pubertätszeit
+
+[pubertär](https://www.collinsdictionary.com/dictionary/german-english/pubertar)   
+das [Junge](https://www.collinsdictionary.com/dictionary/german-english/junge), die Jungen
+das [Mädchen], die Mädchen
+
+Die pubertären Veränderungen des Körpers **bei** **Mädchen und Jungen**.
+
+`Der Hypothalamus` ist eine wichtige Drüse im Gehirn, die **ab** der Pubertät
+**verantwortlich ist für** die Steuerung der Geschlechtshormone **im Körper**.
+
+---
+
+die [Koordination](https://www.collinsdictionary.com/dictionary/german-english/koordination) = die Steuerung 
 [koordinieren](https://www.collinsdictionary.com/dictionary/german-english/koordinieren)
 das Gehirn
 das Zentrum [für..]
