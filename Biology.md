@@ -70,4 +70,6 @@ to perform significantly better thna traditional computing in the field of compu
 
 [Gonadotropins | Follicle Stimulating Hormone (FSH) and Luteinizing Hormone (LH) Dr Matt & Dr Mike](https://www.youtube.com/watch?v=YE-a7XiEYB4)  
 
+[Hormones: Are Your Hormones Normal? What Do your Lab Numbers Mean? Natalie Crawford, MD](https://www.youtube.com/watch?v=uglyMKu3hOg&t=19s)  
+
 ---

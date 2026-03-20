@@ -1,36 +1,9 @@
-# Biologie
 
----
+# Human female Biology
 
-### Ressourcen 
+[Gonadotropins | Follicle Stimulating Hormone (FSH) and Luteinizing Hormone (LH) Dr Matt & Dr Mike](https://www.youtube.com/watch?v=YE-a7XiEYB4)  
 
-#### YouTube [Kanal](https://www.collinsdictionary.com/dictionary/german-english/kanal)**e**
-
-[@teachertoby](https://www.youtube.com/@teachertoby)  
-[@WolfgangDibiasi](https://www.youtube.com/@WolfgangDibiasi) 
-
----
-
-### Videos 
-
-#### [Zellzyklus, Zellteilung \- Einführung \[1/6\] \- @teachertoby](https://www.youtube.com/watch?v=eLnfTCbWUgE)
-
-#### [Chemie ist wenn's stinkt und kracht? Nein, Chemie geht auch sauber und leise: mit dem Computer](https://www.youtube.com/watch?v=QmSJrRguqXQ&t=3s) 
-
----
-
-## Wolfgang Dibiasi
-
-[Das macht Oregano-Öl mit deinem Darm und Nervensystem! Wolfgang Dibiasi](https://youtu.be/AzyIUXXIEh0?si=mS14pTSlzUk2qBwb)   
-[Das passiert in dir, wenn dieser Pilz falsch zubereitet wird Wolfgang Dibiasi](https://www.youtube.com/watch?v=F2aSLLuXtno)     
-
-### Zecken
-
-[So wurde ich IMMUN gegen Zecken \- WolfgangDibiasi](https://www.youtube.com/watch?v=NL1riS8XvCU) 
-
----
-
-das [Knochenmark](https://www.collinsdictionary.com/dictionary/german-english/knochenmark) 
+[Hormones: Are Your Hormones Normal? What Do your Lab Numbers Mean? Natalie Crawford, MD](https://www.youtube.com/watch?v=uglyMKu3hOg&t=19s)  
 
 ---
 
@@ -216,15 +189,3 @@ der [Eierstock](https://www.collinsdictionary.com/dictionary/german-english/eier
 die [Ovarie](Tech.) für der EIerstock
 
 ---
-
-## Wortschatz für Biologie
-
-[Evolution widerlegt?\! Biologe zerstört Religiösen Fanatiker\! \- Wolfgang Dibiasi](https://www.youtube.com/watch?v=aApLvs6f69Q) 
-
-die [**Triebfeder**](https://www.collinsdictionary.com/dictionary/german-english/triebfeder) , [**der Organismus**](https://www.collinsdictionary.com/dictionary/german-english/organismus) **(die Organismen) , die [Umwelt](https://www.collinsdictionary.com/dictionary/german-english/umwelt)**   
-**die** **natürliche** [**Selektion**](https://www.collinsdictionary.com/dictionary/german-english/selektion)
-
-Die Evolution**s**theorie **von** Darwin [**beruht sich auf**](https://www.collinsdictionary.com/dictionary/german-english/beruhen) **zufälligen Mutationen** aber die sind nicht **der** einzige [**Faktor**](https://www.collinsdictionary.com/dictionary/german-english/faktor)**, auf** de**m** die Theorie [**bezieht**](https://www.collinsdictionary.com/dictionary/german-english/beziehen) **um** die Evolution von Lebewesen zu erklären. **Die** **natürliche** [**Selektion**](https://www.collinsdictionary.com/dictionary/german-english/selektion) und **die [Wechselwirkung](https://www.collinsdictionary.com/dictionary/german-english/wechselwirkung)en** zwischen [**Organismen**](https://www.collinsdictionary.com/dictionary/german-english/organismus) und **deren** [**Umwelt**](https://www.collinsdictionary.com/dictionary/german-english/umwelt) und zwischen Organismen einander sind auch ein wichtiger [**Triebfeder**](https://www.collinsdictionary.com/dictionary/german-english/triebfeder) **der** Evolution.
-
----
-
