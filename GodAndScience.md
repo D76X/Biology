@@ -12,3 +12,7 @@
 [John Lennox Explains Evidence For The Resurrection More Clearly Than Anyone And It’s Mind Blowing Zebulon](https://www.youtube.com/watch?v=NggQTREuG8s)  
 
 ---
+
+[Evolution widerlegt?\! Biologe zerstört Religiösen Fanatiker\! \- Wolfgang Dibiasi](https://www.youtube.com/watch?v=aApLvs6f69Q) 
+
+---
