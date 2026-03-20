@@ -9,13 +9,91 @@
 
 # Weiblische Biologie und Physiologie
 
-[Menstruationszyklus - Ovulation - Hormonelle Regulation (GnRH, FSH, LH, Östradiol, Progesteron) Medi Know](https://www.youtube.com/watch?v=DOpoNkcrmfA)  
+[Was passiert wirklich in deinem Körper? Der Menstruationszyklus erklärt | Dr. Claudia Bignion Dr. Claudia Bignion](https://www.youtube.com/watch?v=a7h1vbhAX6w)  
+
+
 
 ---
 
+# [Menstruationszyklus - Ovulation - Hormonelle Regulation (GnRH, FSH, LH, Östradiol, Progesteron) Medi Know](https://www.youtube.com/watch?v=DOpoNkcrmfA)  
+
 ## Die erste Phase: die Follikelphase (Tag 1-14)
 
-die [Rekrutierung](https://www.collinsdictionary.com/dictionary/german-english/rekrutierung)   
+das `Ovar` = der Eierstock
+der [Follikelsprung] = [Ovulation]
+der [Follikel](https://www.collinsdictionary.com/dictionary/german-english/follikel), die Follikel  
+`Granulosazellen und Thekazellen (TK-Zellen)`  
+das [Östrogen](https://www.collinsdictionary.com/dictionary/german-english/ostrogen), die Östrogene  
+
+Ein Follikel **besteht aus** einer Eizelle, die umgeben ist von `Granulosazellen` und `TK-Zellen`
+
+`Granulosazellen und Thekazellen (TK-Zellen)` sind zwei essenzielle, funktionell unterschiedliche Zelltypen 
+im Eierstock (das Ovar) von Säugetieren, die eng zusammenarbeiten, um `Follikelreifung`, `Eizellentwicklung` 
+und `Steroidhormonproduktion` (insbesondere `Östrogene`) zu steuern. 
+
+[umschließen](https://www.collinsdictionary.com/dictionary/german-english/umschliessen) = umgeben
+[umgeben](https://www.collinsdictionary.com/dictionary/german-english/umgeben) 
+[stimulieren](https://www.collinsdictionary.com/dictionary/german-english/stimulieren)   
+die [Stimulierung](https://www.collinsdictionary.com/dictionary/german-english/stimulierung) = die Stimulation 
+die [Stimulation](https://www.collinsdictionary.com/dictionary/german-english/stimulation)  
+das [Enzym](https://www.collinsdictionary.com/dictionary/german-english/enzym), die Enzyme, Enzyme **produzieren**.
+[umwandeln](https://www.collinsdictionary.com/dictionary/german-english/umwandeln)  > in (+ak.) etwas umwandeln
+die [Umwandlung](https://www.collinsdictionary.com/dictionary/german-english/umwandlung)  von Strafe
+> die Umwandlung des Androgenes in Östrogene 
+
+---
+
+### Granulosazellen (Follikelzellen)
+
+> etwas durch etwas stützen
+Die `Granulosazellen` (`Follikelzellen`) **umschließen direkt** die Eizelle (`Oozyte`) im Follikeln.
+Sie stützen die `Eizellreifung` durch `parakrine Kommunikation`.
+Nach **Stimulation** durch FSH (Follikelstimulierendes Hormon), produzieren sie `Enzyme`, 
+insbesondere `Aromatase`, welche die von den `Thekazellen` produzierten Androgene in Östrogene 
+(Estradiol) umwandeln.
+
+```
+Zusammenfassend:
+Die Thekazellen produzieren Androgene und das Aromatase-Enzym verursacht die Umwandlung des Androgenes in Östrogene. 
+```
+
+> unter jds / etwas Einfluss sein / ewas tun
+das Progesteron
+
+Nach dem Eisprung wandeln die Granulosazellen sich **unter LH-Einfluss** (`Luteinisierendes Hormon`) 
+zu `Granulosaluteinzellen` im `Gelbkörper` (`Corpus luteum`) um und produzieren `Progesteron`. 
+
+---
+
+### Thekazellen (TK-Zellen)
+
+> vor allem, abgekürzt: v. a
+der [Rezeptor](https://www.collinsdictionary.com/dictionary/german-english/rezeptor)    
+[synthetizieren](https://www.collinsdictionary.com/dictionary/german-english/synthetisieren)  
+die [Synthese](https://www.collinsdictionary.com/dictionary/german-english/synthese)  
+die Östrogensynthese
+Das Ausgangsmaterial für die Synthese von Östrogene wird von die TK-Zellen produziert.
+> produzieren = etwas zu Verfügung stellen
+
+Die TK-Zellen bilden die Hülle (`Theca folliculi`) um die `Granulosazellschicht` und 
+unterteilen isch in: 
+
+- Theca interna (drüsig, gefäßreich) 
+- Theca externa (bindegewebig) 
+
+
+Sie besitzen `LH-Rezeptoren` und produzieren **unter LH-Einfluss** Androgene (v.a. Androstendion) aus Cholesterin.
+Sie stellen das Ausgangsmaterial (Androgene) für die Östrogensynthese der Granulosazellen zur Verfügung.
+
+[entarten](https://www.collinsdictionary.com/dictionary/german-english/entarten) > die Entartung != degenerieren
+[degenerieren](https://www.collinsdictionary.com/dictionary/german-english/degenerieren) > die Degeneration 
+Entartungserscheinung
+
+Es ist auch wichtig zu wissen, dass TK-Zellen können zu `Thekome` (seltene Tumoren) entarten.
+
+---
+
+die [Rekrutierung](https://www.collinsdictionary.com/dictionary/german-english/rekrutierung)  
 [rekrutieren](https://www.collinsdictionary.com/dictionary/german-english/rekrutieren)  
 > (sich) aus etwas rekrutiert
 
@@ -24,7 +102,8 @@ die [Kohorte](https://www.collinsdictionary.com/dictionary/german-english/kohort
 
 `die Ovarien`
 
-FSH und LH wirken dann aus die Ovarien
+FSH und LH wirken dann auf die Ovarien, und zwar sorgen sie für 
+die Rekrutierung einer Kohorte an Follikeln, die dann heranreifen.
 
 [ausschutten](https://www.collinsdictionary.com/dictionary/german-english/ausschutten)  
 die [Ausschüttung](https://www.collinsdictionary.com/dictionary/german-english/ausschuttung)  

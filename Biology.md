@@ -40,6 +40,7 @@ This fact leads to being able to find an answer to each of the questions 1 and 2
 [How to Burn Fat and Build Muscle at the Same Time Institute of Human Anatomy](https://www.youtube.com/watch?v=fD-qF0cHAP4)  
 [The Anatomy of Death: What Happens After Your Heart Stops Institute of Human Anatomy](https://www.youtube.com/watch?v=hYg2RKTwN-4)    
 [What Fentanyl Actually Does to The Body Institute of Human Anatomy](https://www.youtube.com/watch?v=D9bVC1mBXqM)   
+[What HIV Does to the Body | And Should You Get Tested? Institute of Human Anatomy](https://www.youtube.com/watch?v=tPOx6dov1fU&t=23s)   
 
 ---
 
@@ -64,12 +65,3 @@ to perform significantly better thna traditional computing in the field of compu
 
 # RuBisCo 
 
----
-
-# Human female Biology
-
-[Gonadotropins | Follicle Stimulating Hormone (FSH) and Luteinizing Hormone (LH) Dr Matt & Dr Mike](https://www.youtube.com/watch?v=YE-a7XiEYB4)  
-
-[Hormones: Are Your Hormones Normal? What Do your Lab Numbers Mean? Natalie Crawford, MD](https://www.youtube.com/watch?v=uglyMKu3hOg&t=19s)  
-
----
