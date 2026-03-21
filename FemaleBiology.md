@@ -19,6 +19,62 @@
 
 ## Die erste Phase: die Follikelphase (Tag 1-14)
 
+> sodass: [so that] 
+> somit: [thus, therefore, consequently] 
+
+das [Sperma](https://www.collinsdictionary.com/dictionary/german-english/sperma)  
+die Spermien
+die [Höhle](https://www.collinsdictionary.com/dictionary/german-english/hohle)  
+die Uterushöhle
+[verflüssigen](https://www.collinsdictionary.com/dictionary/german-english/verflussigen)  
+die [Verflüssigung](https://www.collinsdictionary.com/dictionary/german-english/verflussigung)  
+Die Verflüssigung des Schleimes in das Gebärmuttershals
+`das Aromataseöstradiol` = das Aromatase-Östradiol
+`die Uterusschleimhaut`
+
+Die Granulosazellen sind FSH-abhängig und bilden Aromataseöstradiol aus dem Androstendion.
+Das Aromatase-Östradiol ist ein wichtiges Hormon, das dafür sorgt, dass die Uterusschleimhaut
+nach der Menstruation wieder wächst. Außerdem wird das Aromatase-Östradiol zur Verflüssigung
+des Schleims im Gebärmuttershals führen, **sodass** die Spermien leichter in die Uterushöhle 
+eindringen können.
+
+> im Verlauf des.. > im Verlauf + gen.
+die [Schwangerschaft](https://www.collinsdictionary.com/dictionary/german-english/schwangerschaft)
+bei ausbleibender Schwangerschaft
+[auskleiden](https://www.collinsdictionary.com/dictionary/german-english/auskleiden) = entkleiden 
+[entkleiden](https://www.collinsdictionary.com/dictionary/german-english/entkleiden)  
+die Auskleidung > eine Auskleidung der Gebärmutter
+
+> Was ist die die Uterusschleimhaut?
+
+`Die Uterusschleimhaut (Endometrium)` ist die innere **Auskleidung der Gebärmutter**, 
+die sich `im Verlauf des` weiblichen Zyklus unter Hormoneinfluss aufbaut, um eine 
+befruchtete Eizelle aufzunehmen. Sie dient der `Einnistung` des `Embryos` und wird 
+**bei ausbleibender Schwangerschaft** während der Menstruation abgebaut.  +3
+
+`das Androstendion`
+`Das Cholesterin, auch Cholesterol` : ein fettiger Naturstoff
+
+Die TK-Zellen haben LH-Rezeptoren, d.h., sie sind LH-abhängig, und konnten das Androstendion
+aus dem Cholesterin bilden.  
+
+die [Vorstufe](https://www.collinsdictionary.com/dictionary/german-english/vorstufe)  
+Die Vorstufe von eine Entwicklung oder eine Phase
+
+> Was ist das Androstendion?
+
+Das Androstendion ist ein schwach wirkendes `Steroidhormon` aus der Gruppe der Androgene 
+(`männliche Sexualhormone`), das als zentrale **Vorstufe** bei der Bildung von `Testosteron`
+und `Östrogen` dient. Es wird in der `Nebennierenrinde` und den `Keimdrüsen` (`Gonaden`) 
+produziert und `spielt eine Schlüsselrolle` im `Hormonstoffwechsel` beider Geschlechter. 
+
+> Was ist das Cholesterin?
+
+Das Cholesterin, auch Cholesterol, ist ein in allen eukaryotischen Zellen vorkommender fettartiger 
+Naturstoff. Alle Tiere und Menschen können Cholesterin selbst herstellen, mit Ausnahme mancher 
+Nematoden und Arthropoden, die es aus der Nahrung aufnehmen müssen (Cholesterin-Auxotrophie).
+Cholesterin ist ein essentieller Bestandteil aller tierischen Zellmembranen.
+
 das `Ovar` = der Eierstock
 der [Follikelsprung] = [Ovulation]
 der [Follikel](https://www.collinsdictionary.com/dictionary/german-english/follikel), die Follikel  

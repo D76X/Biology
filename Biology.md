@@ -41,6 +41,7 @@ This fact leads to being able to find an answer to each of the questions 1 and 2
 [The Anatomy of Death: What Happens After Your Heart Stops Institute of Human Anatomy](https://www.youtube.com/watch?v=hYg2RKTwN-4)    
 [What Fentanyl Actually Does to The Body Institute of Human Anatomy](https://www.youtube.com/watch?v=D9bVC1mBXqM)   
 [What HIV Does to the Body | And Should You Get Tested? Institute of Human Anatomy](https://www.youtube.com/watch?v=tPOx6dov1fU&t=23s)   
+[Do You Really Need Them? Organs You Can Live Without Institute of Human Anatomy](https://www.youtube.com/watch?v=Y421ljBQbzc)  
 
 ---
 
@@ -62,6 +63,11 @@ This fact leads to being able to find an answer to each of the questions 1 and 2
 She mentions the FeMo Cofactor in the context of Quantum Computing and the present inability of this technology 
 to perform significantly better thna traditional computing in the field of computational molecular biology.
 
+---
 
 # RuBisCo 
+
+[Discovery of unique modification to plant’s carbon dioxide-fixing enzyme could boost crops - chemistryworld](https://www.chemistryworld.com/news/discovery-of-unique-modification-to-plants-carbon-dioxide-fixing-enzyme-could-boost-crops/4023155.article)  
+
+---
 
