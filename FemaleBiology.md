@@ -19,6 +19,21 @@
 
 ## Die erste Phase: die Follikelphase (Tag 1-14)
 
+
+`das GnRH-Hormon` = `Gonadotropin releasing hormon GnRH`
+die [Rückkoppelung](https://www.collinsdictionary.com/dictionary/german-english/ruckkoppelung) = die Rückkopplung
+> Etwas über negative Rückkuplung hemmen
+
+[selektieren](https://www.collinsdictionary.com/dictionary/german-english/selektieren)  
+die [Selektion](https://www.collinsdictionary.com/dictionary/german-english/selektion)  
+> sich an etwas (+gen.) beteiligt sein / werden; jdn an etwas beteiligen
+
+Außerdem ist das **Aromatase Östradiol**, das von den Granulosazellen ausgeschüttet wird, 
+beteiligt an der Selektion der Follikel. Das Östradiol wird das Gonadotropin 
+über eine negative Rückkupplung (GnRH) hemmen und auch das LH-Hormon und das FSH-Hormon
+werden reduziert ausgeschüttet.
+
+
 > sodass: [so that] 
 > somit: [thus, therefore, consequently] 
 
