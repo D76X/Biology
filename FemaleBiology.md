@@ -12,6 +12,7 @@
 [Was passiert wirklich in deinem Körper? Der Menstruationszyklus erklärt | Dr. Claudia Bignion Dr. Claudia Bignion](https://www.youtube.com/watch?v=a7h1vbhAX6w)  
 
 
+[Das Hormonsystem / endokrine System des Menschen (Animation) Thomas Schwenke](https://www.youtube.com/watch?v=VhWCF27xXRE)  
 
 ---
 
@@ -19,10 +20,160 @@
 
 ## Die erste Phase: die Follikelphase (Tag 1-14)
 
+die [Übelkeit](https://www.collinsdictionary.com/dictionary/german-english/ubelkeit)  
+Übelkeit [erregen](https://www.collinsdictionary.com/dictionary/german-english/erregen) = verursachen = erzeugen
+> übelkeitserregend 
+Ein übelkeitserregender Stoff.
+[anstecken](https://www.collinsdictionary.com/dictionary/german-english/anstecken)
+> sich anstecken: Ich habe mich mit Übelkeit am Bauch angesteckt.
+> ich will dich nicht anstecken 
+Eine infektiöse Krankheit übertragen
+[infektiös](https://www.collinsdictionary.com/dictionary/german-english/infektios)     
+der Infekt = der Infektion
+der [Infekt](https://www.collinsdictionary.com/dictionary/german-english/infekt), die Infekte  
 
+[enststehen](https://www.collinsdictionary.com/dictionary/german-english/entstehen)   
+> enstehen = in  Dasein treten  
+
+> (sich) aus den Restens von etwas enstehen
+
+> Wichtig!
+
+Die zweite Phase des Menstruationszyklus ist die Lutealphase.
+Während die Follikelphase durch Infekte oder Stress variieren kann,
+ist die Lutealphase relativ konstant 14 Tage lang. 
+
+Das `Corpus luteum`, das auch „Gelbkörper“ genannt wird, entsteht 
+aus den Restens des `Follikelepithel` in die Lutealphase.
+
+[einlagern](https://www.collinsdictionary.com/dictionary/german-english/einlagern)  
+das Fett, die Fette
+TK-Zellen und Granulosazellen werden durch das LH-Hormon Fette einlagern.
+die [Einlagerung](https://www.collinsdictionary.com/dictionary/german-english/einlagerung) 
+Die Einlagerung von Fetten in Zellen oder von Mineralien in Gestein.
+[weiterhin](https://www.collinsdictionary.com/dictionary/german-english/weiterhin) (=außerdem)
+
+Das LH-Hormon stimuliert die Fetteinlagerung in die TK-Zellen und Granulosazellen.
+Die TK-Luteinzellen bilden weiterhin Androstendion und die Granulosa-Luteinzellen
+könner daraus weiterhin Östradiol machen.
+
+das [Enzxym](https://www.collinsdictionary.com/dictionary/german-english/enzym)  
+die [Nbenenieren](https://www.collinsdictionary.com/dictionary/german-english/nebenniere) = suprarenal gland, adrenal body
+die [Gonade](https://www.collinsdictionary.com/dictionary/german-english/gonade)  
+
+> hochregulieren
+
+Das P450scc-Enzym wird in diese zweite Phase des Menstruationszyklus, die Lutealphase, 
+hochreguliert, um die Produktion von Androstendion und auch anderen Steroidhormonen 
+zu stimulieren.
+
+### Was hat das P450scc-Enzym mit Androstendion zu tun?
+
+Das P450scc-Enzym ist das initiierende Enzym in der gesamten Steroidhormonsynthese. 
+Es stellt zwar keine direkte Verbindung zu Androstendion dar, ist aber der erste entscheidende Schritt, 
+ohne den Androstendion nicht gebildet werden kann.
+
+### Was ist das P450scc-Enzym?
+
+P450scc (Cholesterin-Monooxygenase, CYP11A1 oder P450c11a1) ist ein lebensnotwendiges mitochondriales Enzym, 
+das die Umwandlung von Cholesterin in Pregnenolon katalysiert. Es ist der erste und 
+geschwindigkeitsbestimmende Schritt bei der Synthese aller **Steroidhormone (Cortisol, Aldosteron, Geschlechtshormone)** 
+in **Nebennieren, Gonaden und Plazenta**.
+
+### Was sind die Gonade?
+
+Die Gonaden (Keimdrüsen) sind die paarig angelegten Fortpflanzungsorgane von Menschen und Tieren, 
+die Keimzellen (Ei- oder Samenzellen) sowie Sexualhormone (Östrogen, Testosteron) produzieren. 
+Sie zählen zu den primären Geschlechtsmerkmalen und entwickeln sich embryonal aus einer 
+gemeinsamen Anlage zu Hoden (beim Mann) oder Eierstöcken (bei der Frau).
+
+### Was ist das Follikelepithel?
+
+Das Follikelepithel ist eine spezialisierte Schicht aus Epithelzellen, 
+die ein bläschenartiges Gebilde (Follikel) auskleidet. Es kommt 
+hauptsächlich in zwei Formen vor: 
+
+1. Als Granulosazellen im Eierstock, die die Eizelle umgeben und ernähren
+2. Als Thyreozyten in der Schilddrüse, die Hormone produzieren
+
+### Was ist das Corpus luteum?
+
+> die Eibläschen [egg follicle] = der Follikel
+[zurückbilden](https://www.collinsdictionary.com/dictionary/german-english/zuruckbilden)  
+> sich zurückbilden = abnehmen = abbauen =
+[zurücknehmen](https://www.collinsdictionary.com/dictionary/german-english/zurucknehmen)  
+[bestehen bleiben](https://www.collinsdictionary.com/dictionary/german-english/bestehen-bleiben)  
+> bestehen bleiben: Hoffnung, Versprechen, Vereinbarungen
+
+Das Corpus Luteum (Gelbkörper) ist eine temporäre, hormonproduzierende Drüse im Eierstock, 
+die nach dem Eisprung (Ovulation) aus dem Eibläschen (Follikel) entsteht. Es produziert 
+hauptsächlich Progesteron, das den Zyklus reguliert und eine Schwangerschaft durch den 
+Aufbau der Gebärmutterschleimhaut vorbereitet. Ohne Befruchtung bildet es sich zurück, 
+bei Schwangerschaft bleibt es bestehen.
+
+Das Corpus `Granulosaluteinzellen` im `Gelbkörper` (`Corpus luteum`)
+
+
+[im Endeffekt](https://www.collinsdictionary.com/dictionary/german-english/endeffekt)  
 `das GnRH-Hormon` = `Gonadotropin releasing hormon GnRH`
 die [Rückkoppelung](https://www.collinsdictionary.com/dictionary/german-english/ruckkoppelung) = die Rückkopplung
 > Etwas über negative Rückkuplung hemmen
+die [Vorstufe](https://www.collinsdictionary.com/dictionary/german-english/vorstufe)   
+der [Bauteil](https://www.collinsdictionary.com/dictionary/german-english/bauteil)    
+
+[1] der [Abfall](https://www.collinsdictionary.com/dictionary/german-english/abfall) = die Reduzierung
+die [Reduzierung](https://www.collinsdictionary.com/dictionary/german-english/reduzierung)  
+[reduzieren](https://www.collinsdictionary.com/dictionary/german-english/reduzieren) = zurückführen auf (+Ak.) [2] [Chem.]
+[abfallen](https://www.collinsdictionary.com/dictionary/german-english/abfallen) = [1] herunterfallen; [2] sich senken; [3] schlechter verden
+
+der [Anstieg](https://www.collinsdictionary.com/dictionary/german-english/anstieg) = der Aufstieg  
+der [Aufstieg](https://www.collinsdictionary.com/dictionary/german-english/aufstieg)  
+der Anstieg von Temperatur, Kosten, Preisen, Menge, Anteil auf etwas,..
+[ansteigen](https://www.collinsdictionary.com/dictionary/german-english/ansteigen) = aufsteigen 
+Die Temperatur steigt (=steigt an) (= höher wird)
+Der Konzentrationsanstieg = Der höheren Konzentration an Hormonen
+
+der [Mechanismus](https://www.collinsdictionary.com/dictionary/german-english/mechanismus)  
+ausgleichen = abwägen = auszubalancieren [balancieren](https://www.collinsdictionary.com/dictionary/german-english/balancieren)  
+
+[zuvor](https://www.collinsdictionary.com/dictionary/german-english/zuvor) = zuerst
+> im Jahr zuvor, am Tage zuvor
+[vorher](https://www.collinsdictionary.com/dictionary/german-english/vorher) = früher = zuvor
+> am Tag(e) vorher 
+
+[auslösen](https://www.collinsdictionary.com/dictionary/german-english/auslosen_2) = auswirken != auslosen
+[auswirken](https://www.collinsdictionary.com/dictionary/german-english/auswirken)  
+den Eisprung auslösen
+der [Auslösung](https://www.collinsdictionary.com/dictionary/german-english/auslosung_2)  
+Der Auslösung von Eizellen
+
+Zusammenfassend:
+
+Das GnRH (Gonadotropin) ist der Bauteil für die Hormone FSH und LH.
+
+Das luteinisierende Hormon (LH) wirkt auf die TK-Zellen, weil die LH-Rezeptoren haben. 
+Sie sind LH-abhängig, und konnten das Androstendion, ein männliches Sexualhormon, 
+aus dem Cholesterin bilden. 
+
+Die Granulosazellen, die nur in Weibe geben, sind FSH-abhängig und bilden Aromatase-Östradiol 
+aus dem Androstendion. Das Aromatase-Östradiol ist sorgt für die Verflüssigung des Schleims 
+im Gebärmuttershals um die Spermien leichter in die Uterushöhle einzudringen lassen. 
+Außerdem wird das Aromatase-Östradiol auch verusachen, dass die Uterusschleimhaut nach 
+der Menstruation wieder wächst. 
+
+Das FSH-Hormon stimuliert die Follikelproduktion, aber durch **die negative Rückkopplung** 
+des Östradiols über das GnRH-Hormon, fällt es zurück. Das verursacht nun, dass nur die 
+Follikel, die am meisten FSH-Rezeptoren haben, überleben können. Die Überlebenden
+Follikel werden dominante Follikel genannt und sie gehen weiter, um mehr Östradiol-Hormon
+zu ausschütten.
+
+Schließlich handelt es sich bei diesem letzten Mechanismus um **eine positive Rückkopplung**, 
+die die zuvor dargestellte negative Rückkopplung **ausgleicht**. 
+Der Konzentrationsanstieg an GnRH (Gonadotropin), den durch diese positive Rückkopplung
+vorkommt, **löst den Eisprung aus**, der auch `Ovulation` genannt wird.
+
+Wenn **alles**, was hier oben beschrieben ist, **vervollständigt ist**, endet die Follikelphase.
+Das wird **ungefähr um** den 14. Tag des Menstruationszyklus.
 
 [selektieren](https://www.collinsdictionary.com/dictionary/german-english/selektieren)  
 die [Selektion](https://www.collinsdictionary.com/dictionary/german-english/selektion)  
