@@ -61,11 +61,99 @@ das [Enzxym](https://www.collinsdictionary.com/dictionary/german-english/enzym)
 die [Nbenenieren](https://www.collinsdictionary.com/dictionary/german-english/nebenniere) = suprarenal gland, adrenal body
 die [Gonade](https://www.collinsdictionary.com/dictionary/german-english/gonade)  
 
+[besonders](https://www.collinsdictionary.com/dictionary/german-english/besonders) 
+> besonders: usdrücklich, vor allem / besonders gut oder hübsch aussehen
+> besonders wenig Fehler / besonders weniger
+> besonders:  (= speziell) 
+
 > hochregulieren
+
+[vermehren](https://www.collinsdictionary.com/dictionary/german-english/vermehren)  
+> Die Bakterien verhmeren (=fortpflanzen) lassen.
+> Die Produktion von Hormonen vermehren.
 
 Das P450scc-Enzym wird in diese zweite Phase des Menstruationszyklus, die Lutealphase, 
 hochreguliert, um die Produktion von Androstendion und auch anderen Steroidhormonen 
-zu stimulieren.
+zu stimulieren, besonders wird viel mehr `Progesteron` von dem vermehrten `Androstendion` 
+synthetisiert.
+
+> das Schwangerschaftshormon = das Progesteron
+> die Uterusschleimhaut 
+> für etwas sorgen; es sorgt dafür, dass...
+
+> die Lipiden, die Proteinen, das Glykogen
+das [Protein](https://www.collinsdictionary.com/dictionary/german-english/protein) = das Eiweiß
+das [Eiweiß](https://www.collinsdictionary.com/dictionary/german-english/eiweiss)  
+der [Eiweißgehalt](https://www.collinsdictionary.com/dictionary/german-english/eiweissgehalt)  
+[eiweißarm](https://www.collinsdictionary.com/dictionary/german-english/eiweissarm)  ein eiweißarmes Stoff
+[eiweißreich](https://www.collinsdictionary.com/dictionary/german-english/eiweissreich)
+[eiweißhaltig](https://www.collinsdictionary.com/dictionary/german-english/eiweisshaltig)  
+
+Das `Progesteron` ist das Haupthormon dieser Phase. Es ist ein wichtiges Schwangerschaftshormon, weil
+es dafür sorgt, dass die Uterusschleimhaut vorbereitet wird für die befruchtete Eizelle.
+Das Endometrium, das auch die Gebärmutterschleimhaut genannt ist, wird mit Lipiden, Proteinen und Glykogen
+eingebaut, damit die befruchtete Eizelle wohl fühlt.
+
+[verdicken](https://www.collinsdictionary.com/dictionary/german-english/verdicken)  
+die [Verdickung](https://www.collinsdictionary.com/dictionary/german-english/verdickung)   
+
+[verdichten](https://www.collinsdictionary.com/dictionary/german-english/verdichten)  
+die [Verdichtung](https://www.collinsdictionary.com/dictionary/german-english/verdichtung)
+
+[zervikal](https://www.collinsdictionary.com/dictionary/german-english/zervikal)  
+> der zervikale Schleim, der Zervikalschleim
+
+Das Progesteron wird auch die Verdickung des Zervikalschleims verursachen, die wiederum 
+neuen Spermen verhindern wird, die Uterus zu eindringen.
+
+> die symptothermalen Methode
+Wichtig ist auch zu wissen, dass die Produktion des Progesterons auch einen Anstieg 
+der Basaltemperatur von etwas zwischen einem Viertel und einem halben Grad verursachen wird.
+Diese zwei Ereignisse werden im Rahmen der symptothermalen Methode verwendet.
+
+die [Verhütung](https://www.collinsdictionary.com/dictionary/german-english/verhutung) = Empfängnisverhütung
+das [Verhütungsmittel](https://www.collinsdictionary.com/dictionary/german-english/verhutungsmittel)  
+> eine natürliche Verhütungsmethode
+der [Spiegel](https://www.collinsdictionary.com/dictionary/german-english/spiegel) 
+> der Konzentrationsspiegel
+
+Schließlich wird das Progesteron auf einer negativen Rückkopplung auf dem GnRH-Hormon aktiv sein, 
+die wiederum zu dem Abstieg der Konzentrationsspiegel des FSH-Hormons und des LH-Hormons führt.
+
+###  Was ist die Basaltemperatur?
+
+Die Basaltemperatur (Aufwachtemperatur) ist die niedrigste Körpertemperatur im Ruhezustand, 
+die direkt nach dem Aufwachen und vor dem Aufstehen gemessen wird. Sie steigt nach dem 
+Eisprung durch das Hormon Progesteron um ca. \(0,25–0,5\text{°C}\) an, was zur Bestimmung 
+der fruchtbaren Tage (natürliche Familienplanung) oder zur Zyklusbeobachtung genutzt wird.
+
+> Wichtige Fakten zur Basaltemperatur:
+
+- Messzeitpunkt: 
+Täglich morgens, unmittelbar nach dem Aufwachen, noch im Bett.
+
+- Messort: 
+Die Messung sollte immer an derselben Stelle (oral, vaginal oder rektal) mit einem digitalen 
+2-Nachkommastellen-Thermometer erfolgen.
+
+- Zyklusphasen: 
+In der ersten Zyklushälfte (vor dem Eisprung) ist die Temperatur niedriger (Tieflage), 
+nach dem Eisprung steigt sie an und bleibt bis zur nächsten Periode erhöht (Hochlage).
+
+- Eisprung-Indikator: 
+Ein Anstieg der Temperatur über mindestens drei aufeinanderfolgende Tage signalisiert, dass 
+der Eisprung stattgefunden hat.
+
+- Einflussfaktoren: 
+Störfaktoren wie Alkohol, Schlafmangel, Stress oder Infekte können die Temperaturmessung verfälschen.
+
+Die Aufzeichnung der Basaltemperatur ermöglicht es, die unfruchtbare Zeit nach dem Eisprung zu identifizieren, 
+ist jedoch aufgrund der verzögerten Anzeige nicht zur präzisen Vorhersage des Eisprungs geeignet, da dieser 
+meist kurz vor dem Anstieg liegt.
+
+Die Messung der Basaltemperatur ermöglicht die Bestimmung der unfruchtbaren Phase nach dem Eisprung,
+ist aber aufgrund der verzögerten Anzeige nicht geeignet, den Eisprung genau vorherzusagen, da diese
+üblicherweise kurz vor dem Temperaturanstieg erfolgt.
 
 ### Was hat das P450scc-Enzym mit Androstendion zu tun?
 
