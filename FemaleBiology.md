@@ -20,8 +20,45 @@
 
 ## Was ist die die symptothermale Methode?
 
-Die symptothermale Methode (NFP) ist eine sehr sichere, natürliche und hormonfreie Methode zur Verhütung oder Kinderwunschplanung. Sie kombiniert die tägliche Messung der Basaltemperatur mit der Beobachtung des Zervixschleims, um fruchtbare von unfruchtbaren Tagen zu unterscheiden. Mit einem Pearl-Index von 0,4–1,8 ist sie bei korrekter Anwendung sehr zuverlässig.
+Die symptothermale Methode (NFP) ist eine sehr sichere, natürliche und hormonfreie Methode 
+zur Verhütung oder Kinderwunschplanung. Sie kombiniert die tägliche Messung der Basaltemperatur 
+mit der Beobachtung des Zervixschleims, um fruchtbare von unfruchtbaren Tagen zu unterscheiden. 
+Mit einem Pearl-Index von 0,4–1,8 ist sie bei korrekter Anwendung sehr zuverlässig.
 
+### Grundlagen und Anwendung:
+
+- Basaltemperatur: 
+Messung der Temperatur direkt nach dem Aufwachen vor dem Aufstehen, am besten mit 
+2-Nachkommastellen-Thermometer. Nach dem Eisprung steigt die Temperatur um mindestens 
+\(0,2 \text{°C}\) an.
+
+- Zervixschleim: 
+Der Schleim am Muttermund verändert sich durch Hormone, wird vor dem Eisprung spinnbar/durchsichtig 
+und danach fest/weniger.
+
+- Auswertung: 
+Die fruchtbaren Tage enden erst, wenn die Temperatur gestiegen ist und die Zervixschleimqualität 
+wieder abgenommen hat (Doppelkontrolle).
+
+- Anwendung: 
+Geeignet für Frauen mit regelmäßigem Lebensstil, da Störfaktoren wie Alkohol, spätes Essen oder 
+unruhiger Schlaf die Temperatur beeinflussen können.
+
+### Vorteile und Herausforderungen:
+
+- Vorteile: 
+Keine Hormone, keine Nebenwirkungen, hohe Sicherheit, fördert das Körperbewusstsein.
+
+- Herausforderungen: 
+Erfordert Disziplin (tägliche Messung), Einarbeitungszeit (ca. 3 Zyklen empfohlen), Verzicht auf ungeschützten Verkehr an fruchtbaren Tagen.Die Methode, besonders in der Form von Sensiplan®, ist eine zuverlässige, evidenzbasierte Alternative zur Pille.
+
+die [Einarbeitungszeit](https://www.collinsdictionary.com/dictionary/german-english/einarbeitungszeit)
+die [EInarbeitung](https://www.collinsdictionary.com/dictionary/german-english/einarbeitung) = das Training, die Einfügung  
+[einarbeiten](https://www.collinsdictionary.com/dictionary/german-english/einarbeiten)  
+> sie muss sich in ihr neues Gebiet einarbeiten
+[einfügen](https://www.collinsdictionary.com/dictionary/german-english/einfugen) (=sich anpassen) 
+> sich an der neuen Methode anpassen / einfügen.
+> [2]: die neue Maschine ia ihrem Platz einfügen
 
 ## Die erste Phase: die Follikelphase (Tag 1-14)
 
