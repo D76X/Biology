@@ -18,6 +18,11 @@
 
 # [Menstruationszyklus - Ovulation - Hormonelle Regulation (GnRH, FSH, LH, Östradiol, Progesteron) Medi Know](https://www.youtube.com/watch?v=DOpoNkcrmfA)  
 
+## Was ist die die symptothermale Methode?
+
+Die symptothermale Methode (NFP) ist eine sehr sichere, natürliche und hormonfreie Methode zur Verhütung oder Kinderwunschplanung. Sie kombiniert die tägliche Messung der Basaltemperatur mit der Beobachtung des Zervixschleims, um fruchtbare von unfruchtbaren Tagen zu unterscheiden. Mit einem Pearl-Index von 0,4–1,8 ist sie bei korrekter Anwendung sehr zuverlässig.
+
+
 ## Die erste Phase: die Follikelphase (Tag 1-14)
 
 die [Übelkeit](https://www.collinsdictionary.com/dictionary/german-english/ubelkeit)  
