@@ -106,7 +106,7 @@ die [Verdichtung](https://www.collinsdictionary.com/dictionary/german-english/ve
 Das Progesteron wird auch die Verdickung des Zervikalschleims verursachen, die wiederum 
 neuen Spermen verhindern wird, die Uterus zu eindringen.
 
-> die symptothermalen Methode
+> die symptothermale Methode
 Wichtig ist auch zu wissen, dass die Produktion des Progesterons auch einen Anstieg 
 der Basaltemperatur von etwas zwischen einem Viertel und einem halben Grad verursachen wird.
 Diese zwei Ereignisse werden im Rahmen der symptothermalen Methode verwendet.
