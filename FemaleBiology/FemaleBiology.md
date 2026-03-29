@@ -16,7 +16,10 @@
 
 ---
 
-# [Menstruationszyklus - Ovulation - Hormonelle Regulation (GnRH, FSH, LH, Östradiol, Progesteron) Medi Know](https://www.youtube.com/watch?v=DOpoNkcrmfA)  
+# [Der Menstruationszyklus - Ovulation - Hormonelle Regulation (GnRH, FSH, LH, Östradiol, Progesteron) Medi Know](https://www.youtube.com/watch?v=DOpoNkcrmfA)  
+
+![Der Menstruationszyklus](./DerMenstruationszyklus-01.png)
+
 
 ## Was ist die die symptothermale Methode?
 
