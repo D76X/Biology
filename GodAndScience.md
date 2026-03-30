@@ -16,3 +16,7 @@
 [Evolution widerlegt?\! Biologe zerstört Religiösen Fanatiker\! \- Wolfgang Dibiasi](https://www.youtube.com/watch?v=aApLvs6f69Q) 
 
 ---
+
+[Millions are Falling For This LIE About Christianity Whaddo You Meme??](https://www.youtube.com/watch?v=sNeWWzKdjKM&t=130s)   
+
+---

@@ -11,14 +11,52 @@
 
 [Was passiert wirklich in deinem Körper? Der Menstruationszyklus erklärt | Dr. Claudia Bignion Dr. Claudia Bignion](https://www.youtube.com/watch?v=a7h1vbhAX6w)  
 
+[Das Hormonsystem / endokrine System des Menschen (Animation) Thomas Schwenke](https://www.youtube.com/watch?v=VhWCF27xXRE)   
 
-[Das Hormonsystem / endokrine System des Menschen (Animation) Thomas Schwenke](https://www.youtube.com/watch?v=VhWCF27xXRE)  
+[Schwangerschaft - So entsteht ein kleines Wunder (Animation) Thomas Schwenke](https://www.youtube.com/watch?v=0CtIIt4_uy4)    
 
 ---
 
 # [Der Menstruationszyklus - Ovulation - Hormonelle Regulation (GnRH, FSH, LH, Östradiol, Progesteron) Medi Know](https://www.youtube.com/watch?v=DOpoNkcrmfA)  
 
 ![Der Menstruationszyklus](./DerMenstruationszyklus-01.png)
+
+
+## Zusammenfassung des Menstruationszyklus: einer Überblick über alle Prozesse.
+
+1. Es gibt einen 28-tägigen Menstruationszyklus, der in zwei Teile unterteilt werden kann.
+2. Der erste Teil ist `ovarieller Zyklus` genannt.
+3. Der tweite Teil ist `uteriner Zyklus` genannt.
+4. Beide diese Teile haben zwei aufeinanderfolgende Phasen.
+5. Der erste Phase des ovariellen Zyklus ist die Follikelphase. 
+6. Während der Follikelphase werden die Follikel unter dem Einfluss des FSH-Hormons, das in das Bild mit einer blauen Linie gezeichnet ist, heranreifen. 
+7. Die Granulosazellen sind FSH-abhängig und bilden Aromatase-Östradiol (das Östradiol ist die grüne Linie im Bild) aus dem Androstendion, das meist aus der Nebennierenrinde und den Gonaden ausgeschüttet worden ist.
+7. Nur die Follikel, die die meisten Rezeptoren haben, werden den Reifungsprozess vollenden. 
+
+Zusammenfassend:
+
+Das GnRH (Gonadotropin) ist der Bauteil für die Hormone FSH und LH.
+
+Das luteinisierende Hormon (LH) wirkt auf die TK-Zellen, weil die LH-Rezeptoren haben. 
+Sie sind LH-abhängig, und konnten das Androstendion, ein männliches Sexualhormon, 
+aus dem Cholesterin bilden. 
+
+Die Granulosazellen, die nur in Weibe geben, sind FSH-abhängig und bilden Aromatase-Östradiol 
+aus dem Androstendion. Das Aromatase-Östradiol ist sorgt für die Verflüssigung des Schleims 
+im Gebärmuttershals um die Spermien leichter in die Uterushöhle einzudringen lassen. 
+Außerdem wird das Aromatase-Östradiol auch verusachen, dass die Uterusschleimhaut nach 
+der Menstruation wieder wächst. 
+
+Das FSH-Hormon stimuliert die Follikelproduktion, aber durch **die negative Rückkopplung** 
+des Östradiols über das GnRH-Hormon, fällt es zurück. Das verursacht nun, dass nur die 
+Follikel, die am meisten FSH-Rezeptoren haben, überleben können. Die Überlebenden
+Follikel werden dominante Follikel genannt und sie gehen weiter, um mehr Östradiol-Hormon
+zu ausschütten.
+
+Schließlich handelt es sich bei diesem letzten Mechanismus um **eine positive Rückkopplung**, 
+die die zuvor dargestellte negative Rückkopplung **ausgleicht**. 
+Der Konzentrationsanstieg an GnRH (Gonadotropin), den durch diese positive Rückkopplung
+vorkommt, **löst den Eisprung aus**, der auch `Ovulation` genannt wird.
 
 
 ## Was ist die die symptothermale Methode?
@@ -100,7 +138,7 @@ Die Einlagerung von Fetten in Zellen oder von Mineralien in Gestein.
 
 Das LH-Hormon stimuliert die Fetteinlagerung in die TK-Zellen und Granulosazellen.
 Die TK-Luteinzellen bilden weiterhin Androstendion und die Granulosa-Luteinzellen
-könner daraus weiterhin Östradiol machen.
+können daraus weiterhin Östradiol machen.
 
 das [Enzxym](https://www.collinsdictionary.com/dictionary/german-english/enzym)  
 die [Nbenenieren](https://www.collinsdictionary.com/dictionary/german-english/nebenniere) = suprarenal gland, adrenal body
@@ -366,6 +404,28 @@ Das Androstendion ist ein schwach wirkendes `Steroidhormon` aus der Gruppe der A
 (`männliche Sexualhormone`), das als zentrale **Vorstufe** bei der Bildung von `Testosteron`
 und `Östrogen` dient. Es wird in der `Nebennierenrinde` und den `Keimdrüsen` (`Gonaden`) 
 produziert und `spielt eine Schlüsselrolle` im `Hormonstoffwechsel` beider Geschlechter. 
+
+> Wo kommt das Androstendion her?
+
+Androstendion ist ein wichtiges Zwischenprodukt bei der Bildung von Sexualhormonen, 
+das zu etwa gleichen Teilen in der Nebennierenrinde und den Gonaden (Keimdrüsen) 
+– also Hoden beim Mann und Eierstöcken (Ovarien) bei der Frau – produziert wird. 
+Es entsteht aus Dehydroepiandrosteron (DHEA) und ist eine gemeinsame Vorstufe 
+für Testosteron, Estron und Estradiol.
+
+Hier sind die Details zur Herkunft:
+
+- Frauen: 
+Das Androstendion stammt zu ca. 50 % aus der Nebennierenrinde und zu ca. 50 % aus der Thekazellschicht der Ovarien.
+
+- Männer: 
+Die Bildung erfolgt in der Nebennierenrinde und den Leydig-Zellen des Hodens.
+
+- Wirkung & Rhythmus: 
+Es hat eine mäßig ausgeprägte Tagesrhythmik mit den höchsten Werten in den frühen Morgenstunden.
+
+- Klinische Bedeutung: 
+Der Spiegel ist oft erhöht bei Polyzystischem Ovarialsyndrom (PCOS) oder Nebennierenrinden-Störungen.
 
 > Was ist das Cholesterin?
 
