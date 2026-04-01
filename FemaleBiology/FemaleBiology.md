@@ -29,11 +29,36 @@
 3. Der tweite Teil ist `uteriner Zyklus` genannt.
 4. Beide diese Teile haben zwei aufeinanderfolgende Phasen.
 5. Der erste Phase des ovariellen Zyklus ist die Follikelphase. 
-6. Während der Follikelphase werden die Follikel unter dem Einfluss des FSH-Hormons, das in das Bild mit einer blauen Linie gezeichnet ist, heranreifen. 
-7. Die Granulosazellen sind FSH-abhängig und bilden Aromatase-Östradiol (das Östradiol ist die grüne Linie im Bild) aus dem Androstendion, das meist aus der Nebennierenrinde und den Gonaden ausgeschüttet worden ist.
-7. Nur die Follikel, die die meisten Rezeptoren haben, werden den Reifungsprozess vollenden. 
+6. Während der Follikelphase wird eine Kohorte von Follikeln rekrutiert und unter dem Einfluss des FSH-Hormons, das in das Bild mit einer blauen Linie gezeichnet ist, heranreifen. 
+7. Die Granulosazellen im Eierstock sind FSH-abhängig und bilden Aromatase-Östradiol (das Östradiol ist die grüne Linie im Bild) aus dem Androstendion, das meist aus der Nebennierenrinde und den Gonaden ausgeschüttet worden ist.
+8. Das Östradiol-Hormon führt eine negative Rückkopplung auf das FSH-Hormon aus, deshalb wird man im Bild sehen, dass die grüne Linie des Östradiols steigt und gleichzeitig die blaue Linie des FSH-Hormons fällt. 
+9. Wegen des Falls auf FSH-Hormon werden nur die Follikel der selektierten Kohorte, die die meisten Rezeptoren für FSH-Hormon besitzen, den Reifungsprozess vollenden. Schließlich wird nur ein dominanter Follikel überleben und komplette Reifung erhalten.
+10. Der dominante Follikel bildet weiter Östradiol und der FSH-Hormon-Spiegel stürzt widerum weiter über die negative Rückkopplung auf FSH-Hormon.
+11. Das Östradiol sorgt für die Proliferation, also das Wachstum des Endometriums, also des Uterus. 
+12. Das Östradiol führt nicht nur eine negative Rückkopplung auf das FSH-Hormon aus, außerdem ist es auch auf das GnRH (Gonadropin) positiv rückgekoppelt. Da das GnRH das Vorstufenmaterial für die Synthese der Hormone FSH und LH ist, wird deren Produktion steigen. 
+13. Eigentlich wird die positive Rückkopplung des Östradiols auf das Gonadotropin (GnRH) pulsativ sein. Da kann man in dieser Phase eine starke GnRH-Pulssequenz beobachten.
+
+[sequentiell](https://www.collinsdictionary.com/dictionary/german-english/sequentiell) = sequenziel
+[sequenziell](https://www.collinsdictionary.com/dictionary/german-english/sequenziell)  
+> sequenziell generiert
+die [Sequenz](https://www.collinsdictionary.com/dictionary/german-english/sequenz)  
+> eine starke Pulssequenz
+der [Pulsschlag](https://www.collinsdictionary.com/dictionary/german-english/pulsschlag)  
+der [Puls](https://www.collinsdictionary.com/dictionary/german-english/puls)   
+> pulsativ vorkommen / geschehen, eine starke Pulssequenz 
+die [Synthese](https://www.collinsdictionary.com/dictionary/german-english/synthese)  
+[rückkoppeln](https://www.collinsdictionary.com/dictionary/german-english/ruckkoppeln)  
+
+--- 
 
 Zusammenfassend:
+
+Das Follikelepithel ist eine spezialisierte Schicht aus Epithelzellen, 
+die ein bläschenartiges Gebilde (Follikel) auskleidet. Es kommt 
+hauptsächlich in zwei Formen vor: 
+
+1. Als Granulosazellen im Eierstock, die die Eizelle umgeben und ernähren
+2. Als Thyreozyten in der Schilddrüse, die Hormone produzieren
 
 Das GnRH (Gonadotropin) ist der Bauteil für die Hormone FSH und LH.
 
@@ -287,7 +312,9 @@ Das Corpus `Granulosaluteinzellen` im `Gelbkörper` (`Corpus luteum`)
 
 [im Endeffekt](https://www.collinsdictionary.com/dictionary/german-english/endeffekt)  
 `das GnRH-Hormon` = `Gonadotropin releasing hormon GnRH`
-die [Rückkoppelung](https://www.collinsdictionary.com/dictionary/german-english/ruckkoppelung) = die Rückkopplung
+die [Rückkoppelung](https://www.collinsdictionary.com/dictionary/german-english/ruckkoppelung) = die Rückkopplung.
+> eine negative Rückkopplung auf etwas ausführen  
+[ausführen](https://www.collinsdictionary.com/dictionary/german-english/ausfuhren)   
 > Etwas über negative Rückkuplung hemmen
 die [Vorstufe](https://www.collinsdictionary.com/dictionary/german-english/vorstufe)   
 der [Bauteil](https://www.collinsdictionary.com/dictionary/german-english/bauteil)    
