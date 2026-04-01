@@ -37,7 +37,18 @@
 11. Das Östradiol sorgt für die Proliferation, also das Wachstum des Endometriums, also des Uterus. 
 12. Das Östradiol führt nicht nur eine negative Rückkopplung auf das FSH-Hormon aus, außerdem ist es auch auf das GnRH (Gonadropin) positiv rückgekoppelt. Da das GnRH das Vorstufenmaterial für die Synthese der Hormone FSH und LH ist, wird deren Produktion steigen. 
 13. Eigentlich wird die positive Rückkopplung des Östradiols auf das Gonadotropin (GnRH) pulsativ sein. Da kann man in dieser Phase eine starke GnRH-Pulssequenz beobachten.
+14. Die starke GnRH-Pulssequenz führt dazu, dass die Adenohypophyse viel LH-Hormon, das mit einer roten Linie im Bild ausgezeichnet ist, ausschüttet. 
+15. Das LH-Hormon wird TK-Zellen und Granulosazellen dazu führen, Fette einzulagern. Schließlich wird es durch das LH-Hormon zu den Höhepunkt der Ovulation, der auch Eisprung genannt wird kommen. 
+16. An diesem Punkt endet die erste Phase des Menstruationszyklus. 
+17. Die erste Phase des ovarieller Zyklus wird Filliklephase genannt. 
 
+???
+18. Die erste Phase des uteriner Zyklus wird mit der Proliferationphase enden, die an die voherige Desquamationsphase aschießt.  
+
+der [Höhepunkt](https://www.collinsdictionary.com/dictionary/german-english/hohepunkt)  
+> auf den Höhepunkt bringen 
+> zum Höhepunkt kommen 
+> den Höhepunkt erreichen 
 [sequentiell](https://www.collinsdictionary.com/dictionary/german-english/sequentiell) = sequenziel
 [sequenziell](https://www.collinsdictionary.com/dictionary/german-english/sequenziell)  
 > sequenziell generiert
@@ -52,6 +63,13 @@ die [Synthese](https://www.collinsdictionary.com/dictionary/german-english/synth
 --- 
 
 Zusammenfassend:
+
+TK-Zellen und Granulosazellen werden durch das LH-Hormon Fette einlagern.
+die [Einlagerung](https://www.collinsdictionary.com/dictionary/german-english/einlagerung) 
+Die Einlagerung von Fetten in Zellen oder von Mineralien in Gestein.
+[weiterhin](https://www.collinsdictionary.com/dictionary/german-english/weiterhin) (=außerdem)
+
+Das LH-Hormon stimuliert die Fetteinlagerung in die TK-Zellen und Granulosazellen.
 
 Das Follikelepithel ist eine spezialisierte Schicht aus Epithelzellen, 
 die ein bläschenartiges Gebilde (Follikel) auskleidet. Es kommt 
@@ -553,6 +571,8 @@ die [Ausschüttung](https://www.collinsdictionary.com/dictionary/german-english/
 > pulsierender Gleichstrom
 > puslatil auschüttten 
 
+---
+
 `Godnadotropin` das `FSH` (das Follikeln stimulierendes Hormon) > das Godnadotropinhormon
 `das Gonadotropin` > `die Gonadotropine`
 **die** `Adenohypophyse`
@@ -572,6 +592,45 @@ Dieses dann wirkt auf der Adenohypophyse, die dann wiederum ihrerseits
 das Gonadotropin und das luteinisierende Hormon, 
 die bzw. auch FSH und LH genannt sind, ausschütten.
 
+### Was ist die Adenohypophyse?
+
+Die Adenohypophyse, oft synonym zum `Hypophysenvorderlappen` (HVL) verwendet, 
+ist der drüsige Teil der `Hirnanhangsdrüse` (`Hypophyse`). 
+Sie produziert wichtige Hormone, die Wachstum, Stoffwechsel und Fortpflanzung steuern. 
+Gesteuert wird sie durch den `Hypothalamus`. 
+ Sie ist über ein `Pfortadergefäßsystem` mit dem Gehirn verbunden und setzt glandotrope 
+(übergeordnete) sowie Effektorhormone (direkt wirkende) frei.
+
+> Wichtige Fakten zur Adenohypophyse:
+
+- Hormonproduktion: 
+Die Adenohypophyse schüttet wichtige Hormone aus, darunter    
+    - Wachstumshormon (STH/GH)
+    - Prolaktin (PRL) 
+    - Thyrotropin (TSH)
+    - Follitropin (FSH)
+    - Lutropin (LH) 
+    - ACTH
+
+- Aufbau: 
+Sie besteht aus drei Teilen: 
+    - Pars distalis (Hauptteil)
+    - Pars tuberalis 
+    - Pars intermedia
+ 
+ - Steuerung: 
+ Der Hypothalamus steuert die Hormonabgabe der Adenohypophyse über 
+ Releasing-Hormone (Liberine) und Inhibiting-Hormone (Statine).
+ 
+ - Entwicklung: 
+ Im Gegensatz zum Hypophysenhinterlappen (Neurohypophyse) entwickelt sich 
+ die Adenohypophyse aus der Rathke-Tasche der Mundbucht.
+ 
+ - Klinische Bedeutung: 
+ Tumoren der Adenohypophyse (Hypophysenadenome) sind meist gutartig, 
+ können aber zu Hormonstörungen führen.
+
+---
 
 [beteiligen](https://www.collinsdictionary.com/dictionary/german-english/beteiligen)  
 > sich an etwas beteiligen: sich an den Unkosten beteiligen
