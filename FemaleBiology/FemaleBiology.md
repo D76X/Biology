@@ -25,8 +25,8 @@
 ## Zusammenfassung des Menstruationszyklus: einer Überblick über alle Prozesse.
 
 1. Es gibt einen 28-tägigen Menstruationszyklus, der in zwei Teile unterteilt werden kann.
-2. Der erste Teil ist `ovarieller Zyklus` genannt.
-3. Der tweite Teil ist `uteriner Zyklus` genannt.
+2. Der erste Teil ist „Overieller Zyklus“ genannt, der in der ersten, oberen Bahn im Bild gezeigt wird.
+3. Dagegen wird der erste Teil des „Uteriner Zyklus" in der unteren Bahn im Bild gezeigt. Der erste Teil des „Uteriner Zyklus" umfasst zwei Phasen. Die Erste wird die Desquamationsphase, die von die Proliferationsphase gefolgt wird.  
 4. Beide diese Teile haben zwei aufeinanderfolgende Phasen.
 5. Der erste Phase des ovariellen Zyklus ist die Follikelphase. 
 6. Während der Follikelphase wird eine Kohorte von Follikeln rekrutiert und unter dem Einfluss des FSH-Hormons, das in das Bild mit einer blauen Linie gezeichnet ist, heranreifen. 
@@ -39,11 +39,19 @@
 13. Eigentlich wird die positive Rückkopplung des Östradiols auf das Gonadotropin (GnRH) pulsativ sein. Da kann man in dieser Phase eine starke GnRH-Pulssequenz beobachten.
 14. Die starke GnRH-Pulssequenz führt dazu, dass die Adenohypophyse viel LH-Hormon, das mit einer roten Linie im Bild ausgezeichnet ist, ausschüttet. 
 15. Das LH-Hormon wird TK-Zellen und Granulosazellen dazu führen, Fette einzulagern. Schließlich wird es durch das LH-Hormon zu den Höhepunkt der Ovulation, der auch Eisprung genannt wird kommen. 
-16. An diesem Punkt endet die erste Phase des Menstruationszyklus. 
-17. Die erste Phase des ovarieller Zyklus wird Filliklephase genannt. 
+16. Das luteinisierende Hormon (LH) wirkt auf die TK-Zellen, weil die LH-Rezeptoren haben. Sie sind LH-abhängig und konnten das Androstendion, ein männliches Sexualhormon, aus dem Cholesterin bilden. Das Androstendion ist wichtig, weil es das Vorstufenmaterial für das Progesteron, das Schwangerschaftshormon, ist.
+17. An diesem Punkt endet die erste Phase des Menstruationszyklus. 
+18. Die erste Phase des ovarieller Zyklus wird Filliklephase genannt. 
+19. Die erste Phase des Uteriner Zyklus wird mit der Proliferationsphase enden, die an die voherige Desquamationsphase anschließt.  
+20. Die zweite Phase des Menstruationszyklus beginnt. Diese sind die Lutealphase für den „Ovarieller Zyklus" und die Sekretionsphase für den „Uteriner Zyklus".  
+21. Während der Lutealphase wird das „Corpus Luteum" aus dem Rest des Follikels sich bilden, das dann das Hormon Progesteron, das auch das Schwangerschaftshormon genannt ist. 
+22. Das Progesteron wird vom P450scc-Enzym aus dem Androstendion synthetisiert. 
+23. Unter dem Einfluss von Progesteron, wird... 
 
-???
-18. Die erste Phase des uteriner Zyklus wird mit der Proliferationphase enden, die an die voherige Desquamationsphase aschießt.  
+> umfassen, einschließen, beinhalten
+[umfassen](https://www.collinsdictionary.com/dictionary/german-english/umfassen) [INS.] = einschließen
+[einschließen](https://www.collinsdictionary.com/dictionary/german-english/einschliessen)  
+[beinhalten](https://www.collinsdictionary.com/dictionary/german-english/beinhalten)  
 
 der [Höhepunkt](https://www.collinsdictionary.com/dictionary/german-english/hohepunkt)  
 > auf den Höhepunkt bringen 
@@ -63,6 +71,20 @@ die [Synthese](https://www.collinsdictionary.com/dictionary/german-english/synth
 --- 
 
 Zusammenfassend:
+
+Das `Progesteron` ist das Haupthormon dieser Phase. Es ist ein wichtiges Schwangerschaftshormon, weil
+es dafür sorgt, dass die Uterusschleimhaut vorbereitet wird für die befruchtete Eizelle.
+Das Endometrium, das auch die Gebärmutterschleimhaut genannt ist, wird mit Lipiden, Proteinen und Glykogen
+eingebaut, damit die befruchtete Eizelle wohl fühlt.
+
+Das P450scc-Enzym wird in diese zweite Phase des Menstruationszyklus, die Lutealphase, 
+hochreguliert, um die Produktion von Androstendion und auch anderen Steroidhormonen 
+zu stimulieren, besonders wird viel mehr `Progesteron` von dem vermehrten `Androstendion` 
+synthetisiert.
+
+Das luteinisierende Hormon (LH) wirkt auf die TK-Zellen, weil die LH-Rezeptoren haben. 
+Sie sind LH-abhängig, und konnten das Androstendion, ein männliches Sexualhormon, 
+aus dem Cholesterin bilden. 
 
 TK-Zellen und Granulosazellen werden durch das LH-Hormon Fette einlagern.
 die [Einlagerung](https://www.collinsdictionary.com/dictionary/german-english/einlagerung) 
