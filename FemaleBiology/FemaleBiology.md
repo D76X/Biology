@@ -46,7 +46,32 @@
 20. Die zweite Phase des Menstruationszyklus beginnt. Diese sind die Lutealphase für den „Ovarieller Zyklus" und die Sekretionsphase für den „Uteriner Zyklus".  
 21. Während der Lutealphase wird das „Corpus Luteum" aus dem Rest des Follikels sich bilden, das dann das Hormon Progesteron, das auch das Schwangerschaftshormon genannt ist. 
 22. Das Progesteron wird vom P450scc-Enzym aus dem Androstendion synthetisiert. 
-23. Unter dem Einfluss von Progesteron, wird... 
+23. Unter dem Einfluss von Progesteron wird die Uterusschleimhaut auf die mögliche Einnistung einer befruchteten Eizelle vorbereitet.
+
+24. Wenn die Einnistung einer befruchtete Eizelle in der Uterusschleimhaut findet nicht statt, bildet sich das „Corpus Luteum" zum  „Corpus Luteum"
+
+Was ist das Corpus albicans?
+
+[befruchten](https://www.collinsdictionary.com/dictionary/german-english/befruchten)   
+künstliche [Befruchtung](https://www.collinsdictionary.com/dictionary/german-english/befruchtung)  
+> künstlich betruchten | fruchtbar machen | stimulieren | (geistig) anregen
+> eine befruchtete Eizelle
+
+[befruchtend](https://www.collinsdictionary.com/dictionary/german-english/befruchtend) = stimulierend  
+> eine befruchtende Idee
+> Ein befruchtendes Mittel nützen, um den Ertrag der Feldfrüchte zu steigen. 
+
+[vorbereiten](https://www.collinsdictionary.com/dictionary/german-english/vorbereiten)  
+> auf etw (accusative) vorbereitet sein | jdn (schonend) auf etw (accusative) vorbereiten | sich auf etw vorbereiten
+die [Vorbereitung](https://www.collinsdictionary.com/dictionary/german-english/vorbereitung)  
+> Vorbereitungen (für or zu etw) treffen  
+
+[einnisten](https://www.collinsdictionary.com/dictionary/german-english/einnisten)  
+> die Einnistung , das Einnisten
+> in unserem Land haben sich so viele Kriminelle eingenistet
+> in ihm hatte sich tiefes Misstrauen eingenistet
+> Die Eizelle muss sich erst in der Uterusschleimhaut richtig einnisten, um zu einer Schwangerschaft zu kommen.
+> Die Einnistung der Eizelle in der Uterusschleimhaut ist die erste nötige Bedingung, um zu einer Schwangerschaft zu kommen.  
 
 > umfassen, einschließen, beinhalten
 [umfassen](https://www.collinsdictionary.com/dictionary/german-english/umfassen) [INS.] = einschließen
@@ -331,6 +356,39 @@ hauptsächlich in zwei Formen vor:
 
 1. Als Granulosazellen im Eierstock, die die Eizelle umgeben und ernähren
 2. Als Thyreozyten in der Schilddrüse, die Hormone produzieren
+
+### Was ist das Corpus albicans?
+
+Das `Corpus albicans` (lateinisch für „weißer Körper“) ist eine kleine, **vernarbte Struktur** 
+im Eierstock (Ovar), die als Endstadium des Gelbkörpers (Corpus luteum) entsteht. 
+Es ist ein normaler Bestandteil des weiblichen Zyklus.
+
+> Hauptmerkmale und Funktion:
+
+- Entstehung: 
+Wenn nach einem Eisprung keine Schwangerschaft eintritt, bildet sich der Gelbkörper, 
+der zuvor Progesteron produziert hat, zurück. Dieser Prozess nennt sich `Luteolyse`.
+
+- Struktur: 
+Die Zellen des Gelbkörpers werden durch Bindegewebe ersetzt, das reich an Kollagen ist. 
+Dadurch entsteht eine weiße, **narbenähnliche Struktur**.
+
+- Ultraschall: 
+Im `Ultraschallbild` ist das Corpus albicans oft als kleine, helle (hyperechogene) Struktur 
+im Eierstock zu erkennen.
+
+- Verbleib: 
+Das Corpus albicans bleibt meist für einige Zeit bestehen, bevor es schließlich verschwindet. 
+
+Es wird auch als `Corpus candicans` oder `Corpus fibrosum` bezeichnet.
+Zusammenfassend handelt es sich beim `Corpus albicans` um die „Narbe“ eines vergangenen Eisprungs.
+
+[vernarben](https://www.collinsdictionary.com/dictionary/german-english/vernarben)  
+> vernarbend
+die [Vernarbung](https://www.collinsdictionary.com/dictionary/german-english/vernarbung)  
+> Die Vernarbung von Wunden (durch Feuer)
+> Das `Corpus albicans` ist einer vernarbte Struktur im Eierstock (Ovar)  
+> Die alte Wunde würde sich über viele Jahre hin langsam vernarben.
 
 ### Was ist das Corpus luteum?
 
