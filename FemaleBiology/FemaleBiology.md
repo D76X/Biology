@@ -56,8 +56,10 @@
 
 ---
 
+die [Abstoßung](https://www.collinsdictionary.com/dictionary/german-english/abstossung) [1: in der Physik, 2: als medizinischer Begriff]  
 [abstoßen](https://www.collinsdictionary.com/dictionary/german-english/abstossen) = wegstoßen 
 Wegen des runterfallenden Spiegels des Progesterons wird die Funktionalis zuerst zur Nekrose und schließlich abgestoßen. 
+
 
 [vernarben](https://www.collinsdictionary.com/dictionary/german-english/vernarben)  
 > vernarbend
