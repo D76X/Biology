@@ -50,25 +50,14 @@
 24. Wenn die Einnistung einer befruchteten Eizelle in der Uterusschleimhaut findet nicht statt, bildet das „Corpus albicans" aus dem „Corpus luteum". 
 25. Dieser Prozess nennt sich „Luteolyse", wobei ein kollagenreiches Bindegewebe sich zum „Corpus albicans" verwandeln wird.
 26. Nachdem das „Corpus albicans" entsteht, wird der Spiegel von Progesteron, das von dem „Corpus luteum" ausgeschüttet wurde, scharf abfallen.
-27. Die Abwesenheit von Progesteron führt auf Vasospasmen bei der versorgenen Gefäßen und Nekrose de
-
-
-### Was ist das Funktionalis?
-
-Das Stratum functionale (oft kurz Funktionalis genannt) ist die oberflächliche, 
-dem Uteruslumen (Gebärmutterhöhle) zugewandte Schicht der Gebärmutterschleimhaut (Endometrium). 
-
-Sie spielt eine zentrale Rolle im weiblichen Menstruationszyklus.
-
-Hier sind die wichtigsten Fakten:
-
-- Zyklische Veränderung: 
-Die Funktionalis unterliegt starken hormonellen Veränderungen während des Menstruationszyklus.
-
-- Menstruation: 
-Wenn keine Befruchtung stattfindet, wird das Stratum functionale während der Menstruationsblutung (Desquamationsphase) abgestoßen.Regeneration: Nach der Menstruation baut sich diese Schicht aus dem tiefer liegenden Stratum basale (Basalis) wieder auf.Funktion: Sie dient der Einnistung einer befruchteten Eizelle. Im Falle einer Schwangerschaft entwickelt sie sich zur sogenannten Dezidua weiter.Zusammenfassend ist das Funktionalis die "funktionelle" Schicht der Gebärmutterschleimhaut, die jeden Monat abgebaut und neu aufgebaut wird, während das Stratum basale als regenerative Basis erhalten bleibt.
+27. Die Abwesenheit von Progesteron führt zu Vasospasmen bei den versorgten Gefäßen und zur Nekrose der Funktionalis, die dann abgestoßen wird. 
+28. Dies nennt man Menstruation oder Menstruationsblutung, auch Desquamationsphase genannt.
+29. Der Menstruationszyklus beginnt von diesem Punkt an von vorne.
 
 ---
+
+[abstoßen](https://www.collinsdictionary.com/dictionary/german-english/abstossen) = wegstoßen 
+Wegen des runterfallenden Spiegels des Progesterons wird die Funktionalis zuerst zur Nekrose und schließlich abgestoßen. 
 
 [vernarben](https://www.collinsdictionary.com/dictionary/german-english/vernarben)  
 > vernarbend
@@ -174,6 +163,33 @@ die die zuvor dargestellte negative Rückkopplung **ausgleicht**.
 Der Konzentrationsanstieg an GnRH (Gonadotropin), den durch diese positive Rückkopplung
 vorkommt, **löst den Eisprung aus**, der auch `Ovulation` genannt wird.
 
+### Was ist das Funktionalis? (die Funktionalis)
+
+Das Stratum functionale (oft kurz Funktionalis genannt) ist die oberflächliche, 
+dem Uteruslumen (Gebärmutterhöhle) zugewandte Schicht der Gebärmutterschleimhaut 
+(Endometrium). 
+
+Sie spielt eine zentrale Rolle im weiblichen Menstruationszyklus.
+
+Hier sind die wichtigsten Fakten:
+
+- Zyklische Veränderung: 
+Die Funktionalis unterliegt starken hormonellen Veränderungen während des Menstruationszyklus.
+
+- Menstruation: 
+Wenn keine Befruchtung stattfindet, wird das Stratum functionale während der Menstruationsblutung 
+(Desquamationsphase) abgestoßen. 
+
+- Regeneration: 
+Nach der Menstruation baut sich diese Schicht aus dem tiefer liegenden Stratum basale (Basalis) wieder auf.
+
+- Funktion: 
+Sie dient der Einnistung einer befruchteten Eizelle. 
+
+Im Falle einer Schwangerschaft entwickelt sie sich zur sogenannten `Dezidua` weiter.
+
+Zusammenfassend ist das Funktionalis die "funktionelle" Schicht der Gebärmutterschleimhaut, die jeden Monat 
+abgebaut und neu aufgebaut wird, während das Stratum basale als regenerative Basis erhalten bleibt.
 
 ## Was ist die die symptothermale Methode?
 
