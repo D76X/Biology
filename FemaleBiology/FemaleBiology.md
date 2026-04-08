@@ -47,10 +47,36 @@
 21. Während der Lutealphase wird das „Corpus Luteum" aus dem Rest des Follikels sich bilden, das dann das Hormon Progesteron, das auch das Schwangerschaftshormon genannt ist. 
 22. Das Progesteron wird vom P450scc-Enzym aus dem Androstendion synthetisiert. 
 23. Unter dem Einfluss von Progesteron wird die Uterusschleimhaut auf die mögliche Einnistung einer befruchteten Eizelle vorbereitet.
+24. Wenn die Einnistung einer befruchteten Eizelle in der Uterusschleimhaut findet nicht statt, bildet das „Corpus albicans" aus dem „Corpus luteum". 
+25. Dieser Prozess nennt sich „Luteolyse", wobei ein kollagenreiches Bindegewebe sich zum „Corpus albicans" verwandeln wird.
+26. Nachdem das „Corpus albicans" entsteht, wird der Spiegel von Progesteron, das von dem „Corpus luteum" ausgeschüttet wurde, scharf abfallen.
+27. Die Abwesenheit von Progesteron führt auf Vasospasmen bei der versorgenen Gefäßen und Nekrose de
 
-24. Wenn die Einnistung einer befruchtete Eizelle in der Uterusschleimhaut findet nicht statt, bildet sich das „Corpus Luteum" zum  „Corpus Luteum"
 
-Was ist das Corpus albicans?
+### Was ist das Funktionalis?
+
+Das Stratum functionale (oft kurz Funktionalis genannt) ist die oberflächliche, 
+dem Uteruslumen (Gebärmutterhöhle) zugewandte Schicht der Gebärmutterschleimhaut (Endometrium). 
+
+Sie spielt eine zentrale Rolle im weiblichen Menstruationszyklus.
+
+Hier sind die wichtigsten Fakten:
+
+- Zyklische Veränderung: 
+Die Funktionalis unterliegt starken hormonellen Veränderungen während des Menstruationszyklus.
+
+- Menstruation: 
+Wenn keine Befruchtung stattfindet, wird das Stratum functionale während der Menstruationsblutung (Desquamationsphase) abgestoßen.Regeneration: Nach der Menstruation baut sich diese Schicht aus dem tiefer liegenden Stratum basale (Basalis) wieder auf.Funktion: Sie dient der Einnistung einer befruchteten Eizelle. Im Falle einer Schwangerschaft entwickelt sie sich zur sogenannten Dezidua weiter.Zusammenfassend ist das Funktionalis die "funktionelle" Schicht der Gebärmutterschleimhaut, die jeden Monat abgebaut und neu aufgebaut wird, während das Stratum basale als regenerative Basis erhalten bleibt.
+
+---
+
+[vernarben](https://www.collinsdictionary.com/dictionary/german-english/vernarben)  
+> vernarbend
+die [Vernarbung](https://www.collinsdictionary.com/dictionary/german-english/vernarbung)  
+> Die Vernarbung von Wunden (durch Feuer)
+> Das `Corpus albicans` ist einer vernarbte Struktur im Eierstock (Ovar)  
+> Die alte Wunde würde sich über viele Jahre hin langsam vernarben.
+
 
 [befruchten](https://www.collinsdictionary.com/dictionary/german-english/befruchten)   
 künstliche [Befruchtung](https://www.collinsdictionary.com/dictionary/german-english/befruchtung)  
