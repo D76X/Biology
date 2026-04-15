@@ -41,7 +41,7 @@
 15. Das LH-Hormon wird TK-Zellen und Granulosazellen dazu führen, Fette einzulagern. Schließlich wird es durch das LH-Hormon zu den Höhepunkt der Ovulation, der auch Eisprung genannt wird kommen. 
 16. Das luteinisierende Hormon (LH) wirkt auf die TK-Zellen, weil die LH-Rezeptoren haben. Sie sind LH-abhängig und konnten das Androstendion, ein männliches Sexualhormon, aus dem Cholesterin bilden. Das Androstendion ist wichtig, weil es das Vorstufenmaterial für das Progesteron, das Schwangerschaftshormon, ist.
 17. An diesem Punkt endet die erste Phase des Menstruationszyklus. 
-18. Die erste Phase des ovarieller Zyklus wird Filliklephase genannt. 
+18. Die erste Phase des ovarieller Zyklus wird Folliklephase genannt. 
 19. Die erste Phase des Uteriner Zyklus wird mit der Proliferationsphase enden, die an die voherige Desquamationsphase anschließt.  
 20. Die zweite Phase des Menstruationszyklus beginnt. Diese sind die Lutealphase für den „Ovarieller Zyklus" und die Sekretionsphase für den „Uteriner Zyklus".  
 21. Während der Lutealphase wird das „Corpus Luteum" aus dem Rest des Follikels sich bilden, das dann das Hormon Progesteron, das auch das Schwangerschaftshormon genannt ist. 
