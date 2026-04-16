@@ -893,3 +893,60 @@ der [Eierstock](https://www.collinsdictionary.com/dictionary/german-english/eier
 die [Ovarie](Tech.) für der EIerstock
 
 ---
+
+# How to test cervical mucus?
+
+To test cervical mucus (CM), check with clean fingers, toilet paper, or observe discharge in underwear daily, ideally before urination. Note consistency (sticky, creamy, or slippery) and feel (dry, wet). Fertile, egg-white mucus is slippery and stretches between fingers, signaling peak ovulation, according to the Cleveland Clinic and Natural Cycles.
+
+## How to Collect and Test Cervical Mucus
+
+1. Finger Method (Most Reliable): 
+Wash hands and insert a clean index or middle finger into the vagina, 
+reaching towards the cervix. Remove and test the consistency between your 
+thumb and index finger.
+
+2. Toilet Paper Method: 
+Before urinating, wipe from front to back with white toilet paper and check 
+for color and texture, notes [Tily Blooms](https://tilyblooms.com/tracking-cervical-mucus/) 
+and Natural Cycles.
+
+3. Observation: 
+Note the sensation of moisture at the vulva throughout the day or examine 
+discharge in underwear, says Tily Blooms.
+
+## Key Indicators to Track
+
+- Dry (Immediately post-period): 
+Little to no mucus, feels dry.
+
+- Sticky/Creamy (Approaching fertile window): 
+Thick, white, or cloudy; less fertile, says Natural Cycles.
+
+- Wet/Slippery (Most Fertile): 
+Clear, stretchy like raw egg whites; indicates high fertility, as explained by 
+Tily Blooms and Natural Cycles.
+
+- After Ovulation: 
+Becomes thick or disappears
+
+## Best Practices for Tracking
+
+- Daily Routine: 
+Check at the same time each day, preferably when changing or using the bathroom, 
+as suggested by Natural Cycles and in this Reddit post:  
+[How do YOU check for cervical mucus?](https://www.reddit.com/r/TryingForABaby/comments/cmbp2h/how_do_you_check_for_cervical_mucus/)  
+
+- Avoid Contamination: 
+Check before intercourse or taking a shower to prevent mistaking semen or arousal 
+fluid for mucus, advises Planned Parenthood:
+[What's the cervical mucus method of FAMs?](https://www.plannedparenthood.org/learn/birth-control/fertility-awareness/whats-cervical-mucus-method-fams)  
+
+- Record Data: 
+Log your daily observations on a chart or app to identify your personal patterns.
+
+It is important to remember that vaginal infections, some medications, and 
+sexual arousal can alter the consistency of your cervical mucus.
+
+[Cervical Mucus, Medically Reviewed, Last updated on 12/18/2024. Cleaveland Clinic](https://my.clevelandclinic.org/health/body/21957-cervical-mucus)  
+
+---
