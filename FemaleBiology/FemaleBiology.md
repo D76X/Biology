@@ -952,10 +952,12 @@ sexual arousal can alter the consistency of your cervical mucus.
 [Miracare](https://shop.miracare.com/en-eu/products?country=IT)  
 [Kegg](https://kegg.tech/?srsltid=AfmBOoqbwKyIbARcqSk9X6Km7hdM_7b9hQ0QJEAuS5mYZR7LY98KICvu)  
 [kegg Fertility Tracker](https://www.amazon.com/kegg-Fertility-Recurring-Maximize-Conceiving/dp/B09BR12MB4)  
-
+[kegg Fertility Tracker + Free Fertility App](https://www.amazon.co.uk/kegg-Fertility-Pregnancy-Warranty-Recurring/dp/B09BR12MB4)  
 
 [The Best Fertility Trackers, According to a Mom Who Tested 10 Over the Past 5 Years](https://www.whattoexpect.com/baby-products/trying-to-conceive/best-fertility-trackers#best-overall-fertility-tracker)   
 
 [Pros and cons of Mira, Inito, Kegg, and other femtech devices](https://naturalwomanhood.org/femtech-device/)  
+
+[Mira vs Kegg: what’s the most reliable fertility tracker?](https://shop.miracare.com/en-eu/blogs/resources/mira-vs-kegg?srsltid=AfmBOorQU7EN0Bdb8G3xWcxXCREUlWQkcR6LFNiGM9NMHSeh-ook8SH6&country=IT)   
 
 ---
