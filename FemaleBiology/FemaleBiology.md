@@ -949,9 +949,20 @@ sexual arousal can alter the consistency of your cervical mucus.
 
 [Cervical Mucus, Medically Reviewed, Last updated on 12/18/2024. Cleaveland Clinic](https://my.clevelandclinic.org/health/body/21957-cervical-mucus)  
 
+### Cervical Mucus Testing Procedures
+
+[Conception 101: Decoding Your Cervical Mucus Mosie Baby](https://www.youtube.com/watch?v=agYmcUbAauc)
+
+### Cervical Mucus Testing Devices
+
 [Miracare](https://shop.miracare.com/en-eu/products?country=IT)  
+
 [Kegg](https://kegg.tech/?srsltid=AfmBOoqbwKyIbARcqSk9X6Km7hdM_7b9hQ0QJEAuS5mYZR7LY98KICvu)  
+
+[kegg fertility tracker and kegel ball](https://mosiebaby.com/products/kegg-fertility-tracker-and-kegel-ball)  
+
 [kegg Fertility Tracker](https://www.amazon.com/kegg-Fertility-Recurring-Maximize-Conceiving/dp/B09BR12MB4)  
+
 [kegg Fertility Tracker + Free Fertility App](https://www.amazon.co.uk/kegg-Fertility-Pregnancy-Warranty-Recurring/dp/B09BR12MB4)  
 
 [The Best Fertility Trackers, According to a Mom Who Tested 10 Over the Past 5 Years](https://www.whattoexpect.com/baby-products/trying-to-conceive/best-fertility-trackers#best-overall-fertility-tracker)   
@@ -959,5 +970,15 @@ sexual arousal can alter the consistency of your cervical mucus.
 [Pros and cons of Mira, Inito, Kegg, and other femtech devices](https://naturalwomanhood.org/femtech-device/)  
 
 [Mira vs Kegg: what’s the most reliable fertility tracker?](https://shop.miracare.com/en-eu/blogs/resources/mira-vs-kegg?srsltid=AfmBOorQU7EN0Bdb8G3xWcxXCREUlWQkcR6LFNiGM9NMHSeh-ook8SH6&country=IT)   
+
+## Kegg Device
+
+[Cervical Mucus: How Wet is Normal? What Does It Reveal About Your Hormones and Fertility? Natalie Crawford, MD](https://www.youtube.com/watch?v=2WMv3LFA_Uk)  
+
+[Tips To Correctly Use KEGG | Fertility Tracker Nikki Soh](https://www.youtube.com/watch?v=XTZbpYMtBJA)  
+
+[Using the Kegg Device for Cervical Mucus Tracking Whole Mama Michigan](https://www.youtube.com/watch?v=NuolKOTbDnk)  
+
+[An Honest Review of kegg Fertility Tracker Chart Your Fertility](https://www.youtube.com/watch?v=yiiG2hU9vgU)  
 
 ---
