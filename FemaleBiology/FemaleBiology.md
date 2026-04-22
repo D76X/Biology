@@ -982,3 +982,41 @@ sexual arousal can alter the consistency of your cervical mucus.
 [An Honest Review of kegg Fertility Tracker Chart Your Fertility](https://www.youtube.com/watch?v=yiiG2hU9vgU)  
 
 ---
+
+# Basal Body Temperature (BBT) 
+
+Basal Body Temperature (BBT) is your lowest resting body temperature, 
+taken immediately upon waking before any activity, typically between 
+36.1°C and 36.4°C. After ovulation, this range shifts slightly upward 
+due to hormonal changes - often up to 37°C or more.
+
+## How to Measure and Track BBT
+
+- Use a Specialized Thermometer: 
+Use a basal thermometer that measures to two decimal places for accuracy.
+
+- Consistent Timing: 
+Take your temperature at the same time each morning immediately after waking up, 
+before getting out of bed, talking, or drinking water.
+
+- Record Data: 
+Log daily readings on a chart or app to identify patterns.
+
+- Method Consistency: 
+Measure consistently, whether orally, vaginally, or rectally. 
+
+## BBT and the Menstrual Cycle
+
+- Pre-Ovulation (Follicular Phase): 
+Temperatures are lower, generally averaging 36.1°C and 36.4°C
+
+- Ovulation: 
+A slight, sudden rise in temperature indicates ovulation has occurred, 
+caused by the release of progesterone.
+
+- Post-Ovulation (Luteal Phase): 
+
+Temperatures remain elevated (36.4°C or higher) for at least three days. 
+If temperatures stay high for over 18 days, it may indicate pregnancy. 
+
+---
