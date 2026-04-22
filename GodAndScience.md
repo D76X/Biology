@@ -27,6 +27,10 @@
 
 [Synthese von Glaube und Physik | Grenzen des Wissens](https://www.youtube.com/watch?v=BdzGWRHa0QY)  
 
+[Einstein: Ein religiöser Ungläubiger | Grenzen des Wissens Grenzen des Wissens](https://www.youtube.com/watch?v=Pk7lqi9DplE)  
+
+## Gerd Ganteför Books
+
 [Die Intelligenz des Universums: Die immaterielle Komponente der Wirklichkeit Kindle Edition](https://www.amazon.de/-/en/Gerd-Gantef%C3%B6r-ebook/dp/B0GVPKJL39/ref=tmm_kin_swatch_0)   
 
 [Das rätselhafte Gewebe unserer Wirklichkeit und die Grenzen der Physik Kindle Edition](https://www.amazon.de/-/en/Gerd-Gantef%C3%B6r-ebook/dp/B0BXM1BL37/ref=pd_sbs_d_sccl_1_1/259-1064694-4239556?pd_rd_w=l9kHd&content-id=amzn1.sym.a3262f15-f867-491e-909e-9c5989acfe7d&pf_rd_p=a3262f15-f867-491e-909e-9c5989acfe7d&pf_rd_r=ZKET9ZYR3ADDGH7YN901&pd_rd_wg=flHkE&pd_rd_r=34330577-aa94-4e12-9d02-76884b888c89&pd_rd_i=B0BXM1BL37&psc=1)  
