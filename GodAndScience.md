@@ -29,6 +29,9 @@
 
 [Einstein: Ein religiöser Ungläubiger | Grenzen des Wissens Grenzen des Wissens](https://www.youtube.com/watch?v=Pk7lqi9DplE)  
 
+[Es gibt keinen Gott ! Wirklich? | Grenzen des Wissens](https://www.youtube.com/watch?v=K-Q3__30Nug)   
+
+
 ## Gerd Ganteför Books
 
 [Die Intelligenz des Universums: Die immaterielle Komponente der Wirklichkeit Kindle Edition](https://www.amazon.de/-/en/Gerd-Gantef%C3%B6r-ebook/dp/B0GVPKJL39/ref=tmm_kin_swatch_0)   
