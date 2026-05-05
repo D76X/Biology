@@ -45,15 +45,6 @@ This fact leads to being able to find an answer to each of the questions 1 and 2
 
 ---
 
-# Stated Clearly
-
-[Stated Clearly Playlists](https://www.youtube.com/@StatedClearly/playlists)  
-
-[01 How did bacterial flagella evolve? 01: Here's what we know Stated Clearly](https://www.youtube.com/watch?v=eFC9VzexRUk)   
-[05 Flagella Evolution 05: Irreducible Complexity Exposed Stated Clearly](https://www.youtube.com/watch?v=AYjFKlTmO2A)  
-
----
-
 # Interesting Topics
 
 # FeMo Cofactor
