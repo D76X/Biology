@@ -1054,4 +1054,14 @@ You have irregular cycles, PCOS, want to track progesterone (PdG) to confirm ovu
 - Choose Clearblue if: 
 You have a regular cycle, want a budget-friendly option, prefer not to use an app, or need a tried-and-true method for NFP.
 
+[Mira](https://shop.miracare.com/en-eu?kw=mira+monitor&cpn=15575655525&tw_source=google&tw_adid=806308572865&tw_campaign=15575655525&tw_kwdid=kwd-631925609026&gad_source=1&gad_campaignid=15575655525&gbraid=0AAAAADDXktrMpX8EYlIw5eGf6tS2I7Yfo&gclid=CjwKCAjw5NvPBhAoEiwA_2egfnt3kxkzHiJ1fpgd6fpAs2-joYegFTjA7rsfan9LvC46vfflF2Pz8hoC1IMQAvD_BwE&country=IT)  
+
+[Clearblue on Amazon.it](https://www.amazon.it/s?k=clearblue)   
+
+---
+
+## NFP costs
+
+[How Much Does it Cost to Use the Marquette Method of NFP?](https://www.vitaefertility.com/cost-to-practice-marquette-method-nfp/#marquette-method-sticks-per-month/)   
+
 ---
