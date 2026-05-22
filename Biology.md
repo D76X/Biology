@@ -43,6 +43,10 @@ This fact leads to being able to find an answer to each of the questions 1 and 2
 [What HIV Does to the Body | And Should You Get Tested? Institute of Human Anatomy](https://www.youtube.com/watch?v=tPOx6dov1fU&t=23s)   
 [Do You Really Need Them? Organs You Can Live Without Institute of Human Anatomy](https://www.youtube.com/watch?v=Y421ljBQbzc)  
 
+# Brain
+
+[Your Brain Uses 20 Watts. AI Needs Entire Data Centers. Institute of Human Anatomy](https://www.youtube.com/watch?v=1HwQtv5Xgr8&t=4s)  
+
 ---
 
 # Interesting Topics
