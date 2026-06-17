@@ -22,9 +22,12 @@
 ## Wolfgang Dibiasi
 
 [Das macht Oregano-Öl mit deinem Darm und Nervensystem! Wolfgang Dibiasi](https://youtu.be/AzyIUXXIEh0?si=mS14pTSlzUk2qBwb)   
+
 [Das passiert in dir, wenn dieser Pilz falsch zubereitet wird Wolfgang Dibiasi](https://www.youtube.com/watch?v=F2aSLLuXtno)     
 
 ### Zecken
+
+[Eine Zeckenflut kommt! Und schuld ist nicht der Klimawandel Wolfgang Dibiasi](https://www.youtube.com/watch?v=Ucq57nTCBA4)  
 
 [So wurde ich IMMUN gegen Zecken \- WolfgangDibiasi](https://www.youtube.com/watch?v=NL1riS8XvCU) 
 
