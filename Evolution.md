@@ -17,3 +17,7 @@
 [Believers, Are We Thinking Clearly About the Age of the Earth? - A Few True Things](https://www.youtube.com/watch?v=lYlqeDZby7g)    
 
 ---
+
+[Scientists Find Evidence That Life on Earth Had Two Separate Origins Anton Petrov](https://www.youtube.com/watch?v=zFk-8_0dXYo&t=27s)  
+
+---
