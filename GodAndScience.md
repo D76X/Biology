@@ -13,6 +13,10 @@
 
 ---
 
+[Catholic Priest Unexpected Viral Speech Has STUNNING CONTENT Daily Dose of Christ ](https://www.youtube.com/watch?v=TprEMmhZbio)
+
+---
+
 [Evolution widerlegt?\! Biologe zerstört Religiösen Fanatiker\! \- Wolfgang Dibiasi](https://www.youtube.com/watch?v=aApLvs6f69Q) 
 
 ---
@@ -37,5 +41,19 @@
 [Die Intelligenz des Universums: Die immaterielle Komponente der Wirklichkeit Kindle Edition](https://www.amazon.de/-/en/Gerd-Gantef%C3%B6r-ebook/dp/B0GVPKJL39/ref=tmm_kin_swatch_0)   
 
 [Das rätselhafte Gewebe unserer Wirklichkeit und die Grenzen der Physik Kindle Edition](https://www.amazon.de/-/en/Gerd-Gantef%C3%B6r-ebook/dp/B0BXM1BL37/ref=pd_sbs_d_sccl_1_1/259-1064694-4239556?pd_rd_w=l9kHd&content-id=amzn1.sym.a3262f15-f867-491e-909e-9c5989acfe7d&pf_rd_p=a3262f15-f867-491e-909e-9c5989acfe7d&pf_rd_r=ZKET9ZYR3ADDGH7YN901&pd_rd_wg=flHkE&pd_rd_r=34330577-aa94-4e12-9d02-76884b888c89&pd_rd_i=B0BXM1BL37&psc=1)  
+
+---
+
+# Discovery Science
+
+[How Molecular Machines in Plants Point to God Discovery Science](https://www.youtube.com/watch?v=G2drg8KZ3wQ&t=43s)  
+
+---
+
+[Dr. Peter Kreeft](https://en.wikipedia.org/wiki/Peter_Kreeft)
+
+Peter John Kreeft (/kreɪft/;[3] born March 16, 1937) is an American professor of philosophy at Boston College and The King's College. 
+A convert to Catholicism, he is the author of over eighty books[4] on Christian philosophy, theology and apologetics.
+He also formulated, together with Ronald K. Tacelli, Twenty Arguments for the Existence of God in their Handbook of Christian Apologetics.[5][6]
 
 ---
